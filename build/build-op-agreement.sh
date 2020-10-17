@@ -1,6 +1,6 @@
 #!/bin/bash 
 
-OUTPUT_BASE_DIR="../YOURLLC"
+OUTPUT_BASE_DIR="../YourLLC"
 LLC_NAME="YourLLC"
 
 PDF_OUTPUT_FILE="$OUTPUT_BASE_DIR/$LLC_NAME-Contract.pdf"
