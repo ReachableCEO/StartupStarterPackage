@@ -19,12 +19,12 @@ company_files=(
 #Common template stuff
 boilerplate_files=(
 "../CommonBoilerplate/defs.md"
-"../CommonBoilerplate/boilerplate.md"
+"../CommonBoilerplate/CommonTermsAndConditions.md"
 "../CommonBoilerplate/profInterest.md"
 "../CommonBoilerplate/remove.md"
 "../CommonBoilerplate/nda.md"
 "../CommonBoilerplate/ip-assign.md"
-"../CommonBoilerplate/TxLLC-ForProfit-MultiMember-Series-ProfitInterestGrant-OpAgreement.md"
+"../SingeLLCOpAgreement/TxLLC-ForProfit-MultiMember-ProfitInterestGrant-OpAgreement.md"
 )
 
 IFS=$'\n\t'
