@@ -1,4 +1,4 @@
-# Rewdood Springs Capital Partners - StartupStarterPackage
+# Redwood Springs Capital Partners - StartupStarterPackage
 
 ## Welcome
 
