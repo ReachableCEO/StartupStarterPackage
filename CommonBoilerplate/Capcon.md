@@ -3,12 +3,8 @@
 
 ## Capital Contribution
 
-The Board Of Directors and Members 
-shall determine if Capital Contributions are required to enable the Company 
-to invest in any Investment Entity or to operate its business. No Member
-shall have any obligation to make any Capital Contribution.
-Notwithstanding the foregoing, Company members, in their sole 
-and absolute discretion, may at any time elect
+No Member shall have any obligation to make any Capital Contribution.
+Company members, in their sole and absolute discretion, may at any time elect
 to fund or not fund further Capital Contributions with respect to the
 Company or any Investment, Investment Entity, without any
 liability whatsoever to the Company or any Member, even if such failure
