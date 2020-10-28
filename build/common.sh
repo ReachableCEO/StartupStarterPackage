@@ -11,9 +11,10 @@ function makeOutput()
 {
 #Company specfic bits
 company_files=(
-"../SingeLLCOpAgreement/title.md"
+"../SingeLLCOpAgreement/TitlePage.md"
 "../SingeLLCOpAgreement/CompanyNameAndPurpose.md"
-"../SingeLLCOpAgreement/grantToMembers.md"
+"../SingeLLCOpAgreement/ProfitInterestGrant.md"
+
 )
 
 #Common template stuff

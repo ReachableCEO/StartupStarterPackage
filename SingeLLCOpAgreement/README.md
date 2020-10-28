@@ -14,3 +14,5 @@ Let's get this out of the way:
 Otherwise, here's the keys, hack as needed, stay out of court and don't fly too close
 to the sun! YeHah!
 
+All bits are licensed as "public domain, do what you want, don't sue us!"
+
