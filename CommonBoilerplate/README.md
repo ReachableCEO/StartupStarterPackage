@@ -1,3 +1,4 @@
+
 # CommonBoilerplate
 
 This is the common and boilerplate items used across all op agreements and bylaws (as appropriate). 

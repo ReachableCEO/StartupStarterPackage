@@ -1,3 +1,4 @@
+
 # Resignation and Removal of Members  
 
 ## Expulsion of a member for Cause
