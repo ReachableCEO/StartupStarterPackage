@@ -18,10 +18,10 @@ company_files=(
 
 #Common template stuff
 boilerplate_files=(
-"../CommonBoilerplate/defs.md"
+"../CommonBoilerplate/Definitions.md"
 "../CommonBoilerplate/CommonTermsAndConditions.md"
-"../CommonBoilerplate/profInterest.md"
-"../CommonBoilerplate/remove.md"
+"../CommonBoilerplate/ProfitInterest.md"
+"../CommonBoilerplate/MemberRemoval.md"
 "../CommonBoilerplate/OutsideCapRaise.md"
 "../CommonBoilerplate/AdditionalMembershipInterests.md"
 "../CommonBoilerplate/RightsToCompanyInformation.md"
@@ -34,10 +34,9 @@ boilerplate_files=(
 "../CommonBoilerplate/Distributions.md" 
 "../CommonBoilerplate/Dissolution.md" 
 "../CommonBoilerplate/Taxes.md" 
-"../CommonBoilerplate/nda.md"
-"../CommonBoilerplate/ip-assign.md"
+"../CommonBoilerplate/NonDisclosure.md"
+"../CommonBoilerplate/IntelectualPropertAssign.md"
 "../CommonBoilerplate/ClosingAndSignature.md" 
-"../SingeLLCOpAgreement/TxLLC-ForProfit-MultiMember-ProfitInterestGrant-OpAgreement.md"
 )
 
 IFS=$'\n\t'
