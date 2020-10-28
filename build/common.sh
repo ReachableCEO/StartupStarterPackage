@@ -26,6 +26,16 @@ boilerplate_files=(
 "../CommonBoilerplate/ip-assign.md"
 "../CommonBoilerplate/OutsideCapRaise.md"
 "../CommonBoilerplate/AdditionalMembershipInterests.md"
+"../CommonBoilerplate/RightsToCompanyInformation.md"
+"../CommonBoilerplate/LiabilityToThirdParties.md"
+"../CommonBoilerplate/ManagementOfTheCompany.md"
+"../CommonBoilerplate/DutyOfCare.md"
+"../CommonBoilerplate/Indemnification.md"
+"../CommonBoilerplate/AccountsAndRecords.md" 
+"../CommonBoilerplate/Capcon.md" 
+"../CommonBoilerplate/Distributions.md" 
+"../CommonBoilerplate/Dissolution.md" 
+"../CommonBoilerplate/ClosingAndSignature.md" 
 "../SingeLLCOpAgreement/TxLLC-ForProfit-MultiMember-ProfitInterestGrant-OpAgreement.md"
 )
 
