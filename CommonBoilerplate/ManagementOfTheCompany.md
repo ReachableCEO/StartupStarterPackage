@@ -12,6 +12,47 @@ any Officer without duty of further inquiry and may assume that such
 Officer has the requisite power and authority to take the action or 
 execute the document in question.
 
+## Major Decisions
+
+* causing the Company to enter into any agreement which
+would subject the Company or its assets to any recourse
+liability for borrowings, or for capital contributions to any Person;
+
+* causing the Company to grant any interests in the
+assets, profit, and income of the Company;
+
+* causing a dissolution of the Company;
+
+* regarding the Company assets, any sale, transfer, exchange,
+mortgage, financing, hypothecation or encumbrance of all or any part
+thereof, or any modification of the terms of the foregoing;
+
+* regarding the Company financial affairs, (A)
+determination of major accounting policies including selection of
+accounting methods and making various decisions regarding treatment and
+allocation of transactions for federal and state income, franchise or
+other tax purposes (B) determination of the terms and conditions of all
+borrowings of the Company and the identity of the lender
+thereof (or (i) applicable Budget therefor;
+
+* regarding the Company operations, approval of insurance coverages,
+the underwriters thereof and claims related thereto, the settlement of
+any litigation that is not fully covered by insurance involving more
+than $1000.00, entering into any contract which obligates the Company
+for more than $500.00 (except to the extent expressly set
+forth in an Annual Budget) or which cannot be cancelled without payment
+of a cancellation fee or other premium on not more than 30 days prior
+notice; and entering into any lease for office space;
+
+* filing of any petition or consenting to the filing of any petition
+that would subject the Company to a bankruptcy or similar
+proceeding;
+
+* any other action which, considered before the taking thereof,
+could reasonably be expected to have a material effect upon the business
+or affairs of the Company or is a breach of fiduciary duty.
+
+
 ## Annual requirements of members
 Not later than February 1 of each year, the Members shall
 deliver to the Board Of Directors a detailed proposed business plan (the
