@@ -24,6 +24,8 @@ boilerplate_files=(
 "../CommonBoilerplate/remove.md"
 "../CommonBoilerplate/nda.md"
 "../CommonBoilerplate/ip-assign.md"
+"../CommonBoilerplate/OutsideCapRaise.md"
+"../CommonBoilerplate/AdditionalMembershipInterests.md"
 "../SingeLLCOpAgreement/TxLLC-ForProfit-MultiMember-ProfitInterestGrant-OpAgreement.md"
 )
 

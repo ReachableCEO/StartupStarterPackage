@@ -1,3 +1,8 @@
+# Introduction
+In order to form a limited liability company pursuant to and in
+accordance with the Texas Business Organization Code (BOC), as amended
+from time to time, the Members hereby agree as follows:
+
 # Company Name
 The name of the limited liability company formed hereby shall be:
 <company name LLC>
