@@ -1,6 +1,32 @@
 
 #Profit Interests
 
+## Introduction 
+
+The Profits Interest Units below are issued to Party on the terms and conditions 
+set forth in this Agreement.
+
+Party shall make no Capital Contribution to the Company in connection with the 
+Profits Interest Units issued hereunder and, as a result, 
+Parties Capital Account balance in the Company immediately after their receipt of 
+the Profits Interest Units shall be equal to zero.
+
+Notwithstanding anything to the contrary contained in the LLC Agreement or set forth 
+herein, with respect to the rights of Party related to, in respect of and in connection 
+with the Company, Board Of Directors and other Members, Party and the Profits Interest 
+Units owned thereby shall have only a right to share in or be allocated Net Profits and 
+Net Losses and receive or share in distributions of the Company as set forth in 
+the Agreement.
+
+Party agrees to execute a counterpart signature page to the Agreement, in the form 
+attached hereto and shall thereupon become a Member as of the Effective Date.
+
+The Profits Interest Units acquired pursuant to this Agreement shall be fully 
+subject to the terms and conditions contained in this Agreement, and Party
+hereby acknowledges that Participant has read and understands the terms and conditions 
+contained therein.
+
+
 ## Prohibition on Transfer of Profits Interest Units
 
 The Profits Interest Units acquired pursuant to this Agreement may not be transferred, 

@@ -60,8 +60,6 @@ power to take any action on behalf of the Company that would
 constitute a Major Decision, unless it has been
 expressly approved in writing by the Board Of Directors. 
 
-
-
 ## Compensation of Members
 Except as otherwise specifically provided herein, no compensatory payment shall be made by
 the Company to any Member for the services to the Company.

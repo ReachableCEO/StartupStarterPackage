@@ -22,8 +22,6 @@ boilerplate_files=(
 "../CommonBoilerplate/CommonTermsAndConditions.md"
 "../CommonBoilerplate/profInterest.md"
 "../CommonBoilerplate/remove.md"
-"../CommonBoilerplate/nda.md"
-"../CommonBoilerplate/ip-assign.md"
 "../CommonBoilerplate/OutsideCapRaise.md"
 "../CommonBoilerplate/AdditionalMembershipInterests.md"
 "../CommonBoilerplate/RightsToCompanyInformation.md"
@@ -35,6 +33,9 @@ boilerplate_files=(
 "../CommonBoilerplate/Capcon.md" 
 "../CommonBoilerplate/Distributions.md" 
 "../CommonBoilerplate/Dissolution.md" 
+"../CommonBoilerplate/Taxes.md" 
+"../CommonBoilerplate/nda.md"
+"../CommonBoilerplate/ip-assign.md"
 "../CommonBoilerplate/ClosingAndSignature.md" 
 "../SingeLLCOpAgreement/TxLLC-ForProfit-MultiMember-ProfitInterestGrant-OpAgreement.md"
 )
