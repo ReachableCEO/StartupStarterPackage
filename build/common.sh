@@ -50,11 +50,18 @@ for file in ${boilerplate_files[@]}; do
 	cat $file >> $MD_OUTPUT_FILE
 done
 
+#pandoc \
+#     --from=markdown \
+#     --number-sections \
+##     --toc \
+#     --output=$1.pdf
+     
 pandoc \
 	< $MD_OUTPUT_FILE \
+     	--from=markdown \
 	--number-sections \
 	--toc \
-	--from=markdown \
-	--to=pdf \
 	--output=$PDF_OUTPUT_FILE
+
+#	--to=pdf \
 }
