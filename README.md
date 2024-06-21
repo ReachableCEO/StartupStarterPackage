@@ -5,6 +5,11 @@
 This is a collection of material that we've assembled over 10+ years of operational
 experience. 
 
+## Repo issues
+https://projects.knownelement.com/project/reachableceo-redwood-springs-capital-partners-rwscp/kanban
+
+## Repo discussion
+https://community.turnsys.com/t/about-the-chiefcommonsofficer-rwscp-category/24
 
 ## Contents
 
