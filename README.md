@@ -12,6 +12,7 @@ In the vendor/git.knownelement.com/RWSCP directory you'll see six sub directorie
 
 - BusinessModelCanvas
 - LLCOperatingAgreement
+- PitchDeck
 - ReadySET
 - StartupStrageicFramework
 - WardleyValueMap
@@ -38,6 +39,7 @@ This is the standard set of company bootstrap documents:
 
 that RWSCP requires it's portfolio companies to adopt as part of taking funding from us.
 
+
 ### ReadySET
 
 This is a standardized comprehensive set of software engineering templates that we require portfolio companies to fully complete as part of the submission for funding process.
@@ -46,6 +48,16 @@ This is a standardized comprehensive set of software engineering templates that 
 
 This serveas as a framework for your startups board/management (and the RWSCP board member) to effectively manage the portfolio company.
 
+### Wardley Value Map
+
+This is where you create your Wardely Valuechain Map.
+
 ### PitchDeck
 
 This is the pitch deck template we require any startups seeking funding from RWSCP to use.
+
+It will heavily utilize the canvas, strageic framework, wardely value map assets.
+
+## Build
+
+Please see the [build readme file](./build/README.md) for details of how to create an output artifact suitable for RWSCP submission.
