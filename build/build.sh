@@ -1,8 +1,18 @@
+#!/bin/bash 
+
+export SSP_INPUT_MD="../build-tempdir/ssp-combined.md"
+
+export SSP_RENDERED_MD="../build-tempdir/RedwoodSpringsCapitalPartners-StartupStarterPackage.md"
+export SSP_RENDERED_PDF="../build-tempdir/RedwoodSpringsCapitalPartners-StartupStarterPackage.pdf"
+
 function prevRunCleanup()
 {
  
-rm $MD_OUTPUT_FILE
-rm $PDF_OUTPUT_FILE
+# Start from a clean slate and remove all previous output
+
+rm $SSP_INPUT_MD
+rm $SSP_RENDERED_MD
+rm $SSP_RENDERED_PDF
 
 }
 
@@ -50,18 +60,28 @@ for file in ${boilerplate_files[@]}; do
 	cat $file >> $MD_OUTPUT_FILE
 done
 
-#pandoc \
-#     --from=markdown \
-#     --number-sections \
-##     --toc \
-#     --output=$1.pdf
-     
-pandoc \
-	< $MD_OUTPUT_FILE \
-     	--from=markdown \
-	--number-sections \
-	--toc \
-	--output=$PDF_OUTPUT_FILE
-
-#	--to=pdf \
 }
+
+main()
+{
+
+
+
+# Expand variables into an intermediate markdown file for conversion to PDF
+
+./mo $SSP_INPUT_MD > $SSP_RENDERED_MD
+
+# Convert to PDF
+
+pandoc \
+$SSP_RENDERED_MD \
+--number-sections \
+--template eisvogel \
+--metadata-file=StartupStarterPackage.yml \
+--from markdown \
+--output ./build-output/$SSP_RENDERED_PDF
+
+}
+
+prevRunCleanup
+makeOutput

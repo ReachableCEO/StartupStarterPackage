@@ -1,0 +1,14 @@
+title: "(DRAFT): Redwood Springs Capital Partners: Startup Starter Package (DRAFT) for YourLLC"
+titlepage: true
+author: "Redwood Springs Capital Partners LLC"
+date: \today
+toc: true
+toc-own-page: true
+header-left: "\\hspace{1cm}"
+header-center: "\\leftmark"
+header-right: "Page \\thepage"
+footer-left: "DRAFT/Example Document"
+footer-center: "Copyright Redwood Springs Capital Partners LLC"
+footer-right: "Not legally binding"
+page-background: "D:/tsys/@ReachableCEO/ExternalVendorCode/pandoc-latex-template/examples/page-background/backgrounds/background5.pdf"
+urlcolor: blue
