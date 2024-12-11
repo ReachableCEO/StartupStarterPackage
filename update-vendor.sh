@@ -1,6 +1,6 @@
 #!/bin/bash
 
-git vendor update BusinessModelCanvas-Markdow main
+git vendor update BusinessModelCanvas-Markdown main
 
 git vendor update LLCOperatingAgreement-Markdown main
 
