@@ -1,3 +1,0 @@
-# WardleyValueMap
-
-Wardley value map 

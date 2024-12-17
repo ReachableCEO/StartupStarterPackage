@@ -1,3 +1,0 @@
-# ReadySET-Markdown
-
-ReadySET Markdown 
