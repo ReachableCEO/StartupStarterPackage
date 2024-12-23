@@ -4,7 +4,7 @@
 
 ### What market segment is this product in?
 
-Simply name the market segment that this product falls into. If you cannot name the market segment, then you probably do not know enough about the overall market yet. If your product bridges two market segments, list them both. If your product is so novel that it does not fit any existing market segment, name a new market segment using a combination of terms that describe current segments, or choose the market segment that your potential customers will think that your product falls into (until the learn more about it).
+Simply name the market segment that this product falls into. If you cannot name the market segment, then you probably do not know enough about the overall market yet. If your product bridges two market segments, list them both. If your product is so novel that it does not fit any existing market segment, name a new market segment using a combination of terms that describe current segments, or choose the market segment that your potential customers will think that your product falls into (./until the learn more about it.md).
 
 ### What is the target market for this product?
 

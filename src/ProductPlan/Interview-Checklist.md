@@ -2,8 +2,8 @@
 
 ##### Related Documents
 
-- [User Needs](User-Needs)
-- [Interview Notes](interview-notes.html)
+- [User Needs](./User-Needs.md)
+- [Interview Notes](./interview-notes.html.md)
 
 ---
 
@@ -50,7 +50,7 @@ interviews.
 1. Be prompt, courteous, and business-like
 2. Introduce yourself and explain why you are there
 3. Make sure that you are interviewing the person you think you are.
-   Get their contact information (e.g., email address) if you don't
+   Get their contact information (./e.g., email address.md) if you don't
    already have it.
 4. Ask permission to take notes. Don't record or video tape.
 5. Confirm the amount of time you and the interviewee have for

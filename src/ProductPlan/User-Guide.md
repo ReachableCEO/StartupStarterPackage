@@ -6,7 +6,7 @@ information._
 
 ##### Product
 
-::[PRODUCT-NAME](http://www.COMPANY.com/products/PRODUCT-NAME/)
+::[PRODUCT-NAME](./http://www.COMPANY.com/products/PRODUCT-NAME/.md)
 
 ##### Release Number
 
@@ -19,7 +19,7 @@ information._
 ##### Customer Support
 
 ::For more information or support, please visit our
-[website](http://www.COMPANY.com/products/PRODUCT-NAME/) or email
+[website](./http://www.COMPANY.com/products/PRODUCT-NAME/.md) or email
 us at <support@COMPANY.com>
 
 ---
@@ -28,7 +28,7 @@ us at <support@COMPANY.com>
 
 _TODO: Fill in the user guide outline below._
 
-_TIP: Consider providing both tutorial (step-by-step) and reference
+_TIP: Consider providing both tutorial (./step-by-step.md) and reference
 material. You can organize the user guide by features, by use cases, by
 roles, or in other ways._
 

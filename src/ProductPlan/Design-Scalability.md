@@ -10,7 +10,7 @@
 
 ##### Related Documents
 
-- [Design](Design) > Scalability
+- [Design](./Design.md) > Scalability
 - ::LINKS TO RELEVANT STANDARDS
 - ::LINKS TO OTHER DOCUMENTS
 
@@ -38,8 +38,8 @@ scalability goals for this design._
 
 | Action        | Goal         | Time Formula                | Description                                                                 |
 | ------------- | ------------ | --------------------------- | --------------------------------------------------------------------------- |
-| ::login       | ::1 second   | ::O(Log(registered_users))  | ::Time that it takes to look up a user by their login name in the database. |
-| ::display_map | ::1/5 second | ::O(map_size + game_pieces) | ::Time that it takes to redraw the game map and all game pieces.            |
+| ::login       | ::1 second   | ::O(./Log(registered_users.md))  | ::Time that it takes to look up a user by their login name in the database. |
+| ::display_map | ::1/5 second | ::O(./map_size + game_pieces.md) | ::Time that it takes to redraw the game map and all game pieces.            |
 
 ### System Scalability Checklist
 
@@ -52,4 +52,4 @@ How well do these mechanisms support the achievement of your goals?
 ::Yes, everyone understands. Feedback is welcome.
 
 ::No, this is a risk that is noted in the
-[Risk Management](Project-Plan#Risk-Management) section.
+[Risk Management](./Project-Plan#Risk-Management.md) section.

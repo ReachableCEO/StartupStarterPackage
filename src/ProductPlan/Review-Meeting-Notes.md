@@ -2,7 +2,7 @@
 
 ##### Project
 
-::[PROJECT-NAME](Home)
+::[PROJECT-NAME](./Home.md)
 
 ##### Release Number
 
@@ -25,18 +25,18 @@
 
 ##### Related Documents
 
-- [QA Plan](QA-Plan) > Review Meeting Notes
-- [Review Meeting Checklists](Review-Meeting-Checklists)
+- [QA Plan](./QA-Plan.md) > Review Meeting Notes
+- [Review Meeting Checklists](./Review-Meeting-Checklists.md)
 
 ---
 
 ### Documents and Code Reviewed at this Meeting
 
-- ::[Feature list section of requirements](#tbd)
-- ::[Multi-user section of requirements](#tbd)
-- ::[Hello.java](/source/browse/PROJECT-NAME/src/Hello.java)
-- ::[HelloStream.java](/source/browse/PROJECT-NAME/src/HelloStream.java)
-- ::[HelloPanel.java](/source/browse/PROJECT-NAME/src/HelloPanel.java)
+- ::[Feature list section of requirements](./#tbd.md)
+- ::[Multi-user section of requirements](./#tbd.md)
+- ::[Hello.java](.//source/browse/PROJECT-NAME/src/Hello.java.md)
+- ::[HelloStream.java](.//source/browse/PROJECT-NAME/src/HelloStream.java.md)
+- ::[HelloPanel.java](.//source/browse/PROJECT-NAME/src/HelloPanel.java.md)
 
 ### Meeting Minutes
 

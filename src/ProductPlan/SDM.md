@@ -9,17 +9,17 @@
 
 ###### Related Documents
 
-- [The Scrum Guide](https://www.scrumguides.org/scrum-guide.html)
-- [The Agile Manifesto](https://agilemanifesto.org)
-- [Agile Documentation: Methodology & Best Practices](https://document360.com/blog/agile-documentation)
-- [Scrum Documentation Template](https://www.infotech.com/research/scrum-documentation-template)
-- [What is Agile Scrum Methodology?](https://www.inflectra.com/Methodologies/Scrum.aspx)
-- [Glossary](Glossary)
+- [The Scrum Guide](./https://www.scrumguides.org/scrum-guide.html.md)
+- [The Agile Manifesto](./https://agilemanifesto.org.md)
+- [Agile Documentation: Methodology & Best Practices](./https://document360.com/blog/agile-documentation.md)
+- [Scrum Documentation Template](./https://www.infotech.com/research/scrum-documentation-template.md)
+- [What is Agile Scrum Methodology?](./https://www.inflectra.com/Methodologies/Scrum.aspx.md)
+- [Glossary](./Glossary.md)
 
 ### Table of Contents
 
-- [Introduction](SDM#1-introduction)
-  - [Purpose](SDM#11-purpose)
+- [Introduction](./SDM#1-introduction.md)
+  - [Purpose](./SDM#11-purpose.md)
   - Scope
   - Audience
   - Document Overview
@@ -137,7 +137,7 @@ Scrum utilizes three essential artifacts to facilitate a clear understanding of 
 
 ##### Product Backlog
 
-- Purpose: The Product Backlog is a dynamic and prioritized list of all the work items (user stories, features, bug fixes, improvements) needed to be completed for the product. It represents the requirements and the vision of the product.
+- Purpose: The Product Backlog is a dynamic and prioritized list of all the work items (./user stories, features, bug fixes, improvements.md) needed to be completed for the product. It represents the requirements and the vision of the product.
 - Importance: The Product Backlog acts as the single source of truth for the development team and stakeholders, ensuring a shared understanding of the product's scope and priorities. It enables transparency and allows for the continuous inspection and adaptation of the project's requirements.
 
 ##### Sprint Backlog
@@ -157,7 +157,7 @@ Scrum utilizes three essential artifacts to facilitate a clear understanding of 
 - Objective: The primary objective of Sprint Planning is to define what the Development Team will work on during the upcoming Sprint. It involves collaborative discussions between the Product Owner and the Development Team to select the most valuable Product Backlog items to be delivered in the Sprint.
 - Contribution to Team's Success: Sprint Planning ensures that the team has a clear understanding of the Sprint Goal and the scope of work for the Sprint. By collaboratively selecting and committing to work items, the team gains a sense of ownership and accountability for achieving the Sprint Goal. This event sets the direction for the Sprint and helps the team stay focused on delivering the highest value increments.
 
-##### Daily Stand-up (Daily Scrum)
+##### Daily Stand-up (./Daily Scrum.md)
 
 - Objective: The Daily Stand-up is a short, time-boxed meeting held every day during the Sprint. The objective is to facilitate communication and collaboration within the Development Team by providing a forum to share progress, discuss any impediments, and synchronize efforts.
 - Contribution to Team's Success: The Daily Stand-up promotes transparency and fosters a shared understanding of the team's progress and challenges. It enables quick identification and resolution of obstacles, promoting a sense of teamwork and collective accountability. The event helps the team stay on track towards achieving the Sprint Goal, and it encourages a culture of continuous improvement by addressing issues as they arise.
@@ -248,7 +248,7 @@ Create a collaborative work environment where team members feel comfortable shar
 
 During Sprint Planning, the Product Owner collaborates with the Development Team to discuss the items from the Product Backlog and define the Sprint Goal. The team members contribute their insights, estimations, and concerns to ensure a shared understanding of what needs to be achieved in the upcoming Sprint.
 
-##### Definition of Done (DoD)
+##### Definition of Done (./DoD.md)
 
 Establish a clear and agreed-upon Definition of Done that defines the criteria for a Product Backlog item to be considered complete. This shared understanding ensures that all team members know what is expected and can work together to meet the DoD for each increment.
 
@@ -278,7 +278,7 @@ Organize knowledge sharing sessions or workshops within the team to facilitate t
 
 ##### Agile Ceremonies and Artifacts
 
-Use Agile ceremonies (e.g., Sprint Planning, Daily Stand-up, Sprint Review, and Sprint Retrospective) and Scrum artifacts (e.g., Product Backlog, Sprint Backlog) as tools for collaboration, transparency, and continuous alignment with project goals.
+Use Agile ceremonies (./e.g., Sprint Planning, Daily Stand-up, Sprint Review, and Sprint Retrospective.md) and Scrum artifacts (./e.g., Product Backlog, Sprint Backlog.md) as tools for collaboration, transparency, and continuous alignment with project goals.
 
 By fostering a collaborative environment, promoting cross-functional expertise, and leveraging Agile practices, the Scrum Team can ensure effective collaboration, shared understanding of project goals, and a focus on delivering high-quality increments that meet the needs of stakeholders. Collaboration within the team is a cornerstone of Scrum, enabling it to adapt and succeed in a dynamic and changing environment.
 
@@ -300,7 +300,7 @@ Backlog refinement, also known as "Backlog Grooming," is an ongoing process wher
 
 ##### Involvement of the Product Owner
 
-The Product Owner (PO) is primarily responsible for managing the Product Backlog. Their involvement includes:
+The Product Owner (./PO.md) is primarily responsible for managing the Product Backlog. Their involvement includes:
 
 - Defining and Communicating Vision: The PO defines the product vision and communicates it to the team and stakeholders. The vision serves as a guide for prioritizing the items in the Product Backlog based on their alignment with the product's overall goals.
 

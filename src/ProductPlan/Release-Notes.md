@@ -8,7 +8,7 @@ number, not internal information._
 
 ##### Product
 
-::[PRODUCT-NAME](http://www.COMPANY.com/products/PRODUCT-NAME/)
+::[PRODUCT-NAME](./http://www.COMPANY.com/products/PRODUCT-NAME/.md)
 
 ##### Release Number
 
@@ -21,7 +21,7 @@ number, not internal information._
 ##### Customer Support
 
 ::For more information or support, please visit our
-[website](http://www.COMPANY.com/products/PRODUCT-NAME/) or email us
+[website](./http://www.COMPANY.com/products/PRODUCT-NAME/.md) or email us
 at <support@COMPANY.com>
 
 ---
@@ -50,21 +50,21 @@ things may change in the future.
 ::This is the first full release of this product. See the product website
 for a complete description.
 
-::(WHEN X IN VERSION NUMBER CHANGES) This is a major release with many new
+::(./WHEN X IN VERSION NUMBER CHANGES.md) This is a major release with many new
 features. Users of previous releases should check the "Version
 Compatibility" section below for instructions on how to use existing
 data with this new release.
 
-::(WHEN Y IN VERSION NUMBER CHANGES) This is an upgrade release with some
+::(./WHEN Y IN VERSION NUMBER CHANGES.md) This is an upgrade release with some
 significant enhancements. Users of previous releases are encouraged to
 upgrade.
 
-::(WHEN Z IN VERSION NUMBER CHANGES) This is a maintenance release that
+::(./WHEN Z IN VERSION NUMBER CHANGES.md) This is a maintenance release that
 improves quality, reliability, and performance without adding any new
 functionality. All users of previous X.Y releases should upgrade to this
 release.
 
-::(WHEN DEFECT CORRECTION CLOSES SIGNIFICANT SECURITY HOLES) This is a
+::(./WHEN DEFECT CORRECTION CLOSES SIGNIFICANT SECURITY HOLES.md) This is a
 critical upgrade release that addresses recently discovered security
 holes. All users of previous X.Y releases should upgrade immediately to
 this release.
@@ -79,8 +79,8 @@ information can be helpful._
 
 - ::Added 4 new play-back modes
 - ::Increased play-back speed by as much as 30%
-- ::(FOR REUSABLE COMPONENTS ONLY) Streamlined build process
-- ::(FOR REUSABLE COMPONENTS ONLY) Roughly doubled unit test coverage
+- ::(./FOR REUSABLE COMPONENTS ONLY.md) Streamlined build process
+- ::(./FOR REUSABLE COMPONENTS ONLY.md) Roughly doubled unit test coverage
 - ::Many improvements to the product's quality, reliability, ease of
   use, and performance. See "Recent Changes" below for details.
 
@@ -90,7 +90,7 @@ _TODO: Fill in these sections. The text here is only an example._
 
 #### ::Installation
 
-::See the [installation instructions](Installation-Guide) for full details.
+::See the [installation instructions](./Installation-Guide.md) for full details.
 Please note that in this release, ...
 
 ::IMPORTANT: You must completely uninstall any previous "developer
@@ -101,7 +101,7 @@ this release.
 
 ::This release consists of the following items:
 
-- ::Release notes (this file)
+- ::Release notes (./this file.md)
 - ::Installation instructions / Quick start guide
 - ::Product installer binary
 - ::User guide
@@ -123,7 +123,7 @@ this release.
 
 #### ::Operating System
 
-::Windows 2000, Windows XP, Mac OS X, Linux (kernel 2.4)
+::Windows 2000, Windows XP, Mac OS X, Linux (./kernel 2.4.md)
 
 #### ::Networking
 
@@ -132,8 +132,8 @@ this release.
 #### ::Existing Software
 
 - ::Standard e-mail client
-- ::Popular web browser (IE6, NN7)
-- ::SuperWaveEdit(TM) 2.0.2 (Needed for custom playback modes)
+- ::Popular web browser (./IE6, NN7.md)
+- ::SuperWaveEdit(./TM.md) 2.0.2 (./Needed for custom playback modes.md)
 
 #### ::Version Compatibility
 
@@ -151,13 +151,13 @@ prior to generating the report, if you notice that they are incorrect.
 You may exclude or summarize changes that might give away valuable
 proprietary information._
 
-- ::FIX [09823](#tbd) Screen frozen when caps-lock is on
-- ::FIX [09912](#tbd) Static heard while downloading
-- ::FIX [10923](#tbd) Repeat-mode cannot play more than 99 times
-- ::ENHANCEMENT [08237](#tbd) Scratch DJ-mode
-- ::ENHANCEMENT [08238](#tbd) Chill DJ-mode
-- ::ENHANCEMENT [08259](#tbd) Retro stereo-mode
-- ::ENHANCEMENT [10202](#tbd) Techno-mode
+- ::FIX [09823](./#tbd.md) Screen frozen when caps-lock is on
+- ::FIX [09912](./#tbd.md) Static heard while downloading
+- ::FIX [10923](./#tbd.md) Repeat-mode cannot play more than 99 times
+- ::ENHANCEMENT [08237](./#tbd.md) Scratch DJ-mode
+- ::ENHANCEMENT [08238](./#tbd.md) Chill DJ-mode
+- ::ENHANCEMENT [08259](./#tbd.md) Retro stereo-mode
+- ::ENHANCEMENT [10202](./#tbd.md) Techno-mode
 
 ### Known Problems and Workarounds
 
@@ -166,11 +166,11 @@ defects discovered in this release, or in previous releases that are
 still not resolved. Include information on workarounds from the issues.
 Otherwise, same as above._
 
-- ::DEFECT [07293](#tbd) Player skips on very loud playback.
+- ::DEFECT [07293](./#tbd.md) Player skips on very loud playback.
   - ::WORKAROUND: Limit volume to settings 1 through 9.
-- ::DEFECT [10509](#tbd) Cannot switch directly from random play mode to
+- ::DEFECT [10509](./#tbd.md) Cannot switch directly from random play mode to
   Internet play-list.
-  - ::WORKAROUND: Switch to local play-list first. Click [here](#tbd) for
+  - ::WORKAROUND: Switch to local play-list first. Click [here](./#tbd.md) for
     detailed instructions.
-- ::DEFECT [10589](#tbd) Static heard while booting
-- ::DEFECT [10944](#tbd) Repeat-mode cannot play more than 999 times
+- ::DEFECT [10589](./#tbd.md) Static heard while booting
+- ::DEFECT [10944](./#tbd.md) Repeat-mode cannot play more than 999 times

@@ -4,7 +4,7 @@
 
 ### Release Number
 
-This is the external release number (the one that customers see).
+This is the external release number (./the one that customers see.md).
 
 ### Release Date
 

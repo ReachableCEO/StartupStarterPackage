@@ -3,7 +3,7 @@
 ### Mission and Scope
 
 _TODO: Answer these questions in your own words. This is condensed
-from the project [Home](Home)._
+from the project [Home](./Home.md)._
 
 #### What problem does this project address?
 
@@ -23,22 +23,22 @@ _TODO: Briefly describe the status of this project. E.g., what phase are you in?
 
 ::We have completed our second beta release and are currently working on
 adding more of the functionality described in our product
-[specification](SRS) and fixing defects.
+[specification](./SRS.md) and fixing defects.
 
 ::The next major milestone is a third beta release with nearly complete
 functionality and a wider set of testers.
 
 #### Status reports
 
-- ::[Status report 1](status-report.html)
-- ::[Status report 2](status-report2.html)
+- ::[Status report 1](./status-report.html.md)
+- ::[Status report 2](./status-report2.html.md)
 - ::Etc.
 
 ### Resources and schedule
 
 _TODO: Briefly describe the project resources and schedule. This is
-condensed from the [project plan](Project-Plan), [resource needs](Resource-Needs),
-and [legal issues](legal.html) documents._
+condensed from the [project plan](./Project-Plan.md), [resource needs](./Resource-Needs.md),
+and [legal issues](./legal.html.md) documents._
 
 #### What are the deadlines for this project?
 
@@ -69,10 +69,10 @@ and [legal issues](legal.html) documents._
 ### Requirements
 
 _TODO: Briefly describe the most important system requirements. This is
-condensed from the [user needs](User-Needs),
-[interview notes](interview-notes.html), [SRS](SRS),
-[use case suite](Use-Case-Suite),
-and [feature set](Feature-Set) documents._
+condensed from the [user needs](./User-Needs.md),
+[interview notes](./interview-notes.html.md), [SRS](./SRS.md),
+[use case suite](./Use-Case-Suite.md),
+and [feature set](./Feature-Set.md) documents._
 
 #### Who are the project stakeholders?
 
@@ -83,20 +83,20 @@ and [feature set](Feature-Set) documents._
 
 #### What user needs have you gathered?
 
-- ::[User stories](LINK-TO-USER-STORIES)
-- ::[Interview notes](LINK-TO-INTERVIEW-NOTES)
+- ::[User stories](./LINK-TO-USER-STORIES.md)
+- ::[Interview notes](./LINK-TO-INTERVIEW-NOTES.md)
 
 #### What are the requirements specifications?
 
-- ::[Use cases](LINK-TO-USE-CASES)
-- ::[Feature specifications](LINK-TO-FEATURE-SPECS)
-- ::[Environmental requirements](LINK-TO-ENV-REQ)
-- ::[Other requirements](LINK-TO-OTHER-REQ)
+- ::[Use cases](./LINK-TO-USE-CASES.md)
+- ::[Feature specifications](./LINK-TO-FEATURE-SPECS.md)
+- ::[Environmental requirements](./LINK-TO-ENV-REQ.md)
+- ::[Other requirements](./LINK-TO-OTHER-REQ.md)
 
 ### Design
 
 _TODO: Briefly describe the most important aspects of the design. This is
-condensed from the [design](Design) template and associated
+condensed from the [design](./Design.md) template and associated
 worksheets._
 
 #### What are your ranked design goals?
@@ -131,18 +131,18 @@ worksheets._
 
 #### Where are your design documents?
 
-- ::[UML class diagram](LINK-TO-CLASS-DIAGRAM)
-- ::[UML class diagram](LINK-TO-CLASS-DIAGRAM)
-- ::[UML state diagram](LINK-TO-STATE-DIAGRAM)
-- ::[UML sequence diagram](LINK-TO-SEQUENCE-DIAGRAM)
-- ::[UML deployment diagram](LINK-TO-DEPLOYMENT-DIAGRAM)
-- ::[Other design](LINK-TO-OTHER-DESIGN)
+- ::[UML class diagram](./LINK-TO-CLASS-DIAGRAM.md)
+- ::[UML class diagram](./LINK-TO-CLASS-DIAGRAM.md)
+- ::[UML state diagram](./LINK-TO-STATE-DIAGRAM.md)
+- ::[UML sequence diagram](./LINK-TO-SEQUENCE-DIAGRAM.md)
+- ::[UML deployment diagram](./LINK-TO-DEPLOYMENT-DIAGRAM.md)
+- ::[Other design](./LINK-TO-OTHER-DESIGN.md)
 
 ### Quality Assurance
 
 _TODO: Briefly describe your quality goals and how you will achieve them.
-This is condensed from the [QA plan](QA-Plan), [test
-suite](test-suite), and [test cases](test-cases.html) documents._
+This is condensed from the [QA plan](./QA-Plan.md), [test
+suite](./test-suite.md), and [test cases](./test-cases.html.md) documents._
 
 #### What are your ranked quality goals?
 
@@ -167,22 +167,22 @@ suite](test-suite), and [test cases](test-cases.html) documents._
 
 #### Where are the test cases?
 
-- ::[Test case](LINK-TO-TEST-CASE)
-- ::[Test case](LINK-TO-TEST-CASE)
-- ::[Test case](LINK-TO-TEST-CASE)
-- ::[Test case](LINK-TO-TEST-CASE)
+- ::[Test case](./LINK-TO-TEST-CASE.md)
+- ::[Test case](./LINK-TO-TEST-CASE.md)
+- ::[Test case](./LINK-TO-TEST-CASE.md)
+- ::[Test case](./LINK-TO-TEST-CASE.md)
 
 ### Packaging, Delivery, and Deployment
 
 Where is the release checklist or sign-off document?
 
-::[Release checklist](LINK-TO-RELEASE-CHECKLIST)
+::[Release checklist](./LINK-TO-RELEASE-CHECKLIST.md)
 
 #### How is the product packaged and deployed?
 
 - ::Packaging: DESCRIPTION
 - ::Deployment: DESCRIPTION
-- ::[Release notes](LINK-TO-RELEASE-NOTES)
+- ::[Release notes](./LINK-TO-RELEASE-NOTES.md)
 
 #### How is the product installed?
 
@@ -195,8 +195,8 @@ Where is the release checklist or sign-off document?
 
 Where is the user documentation?
 
-- ::[User guide](LINK-TO-USER-GUIDE)
-- ::[User FAQ](LINK-TO-FAQ)
+- ::[User guide](./LINK-TO-USER-GUIDE.md)
+- ::[User FAQ](./LINK-TO-FAQ.md)
 
 #### How can users get technical support or report problems?
 
@@ -207,7 +207,7 @@ Where is the user documentation?
 
 _TODO: Define any technical terms that you use above, if a new member of
 the team would not already know them. This is condensed from the
-[glossary](Glossary) documents._
+[glossary](./Glossary.md) documents._
 
 #### ::TECHNICAL TERM 1
 

@@ -2,7 +2,7 @@
 
 ##### Project
 
-::[PROJECT-NAME](Home)
+::[PROJECT-NAME](./Home.md)
 
 ##### Project Time-frame
 
@@ -10,13 +10,13 @@
 
 ##### Attached worksheets
 
-- Plan > [Resource Needs](Resource-Needs)
+- Plan > [Resource Needs](./Resource-Needs.md)
 
 ##### Related Documents
 
-- [Project Proposal](Proposal) > [Target audience and benefits](Target-and-Benefits)
-- [Software development methodology](SDM)
-- [Glossary](Glossary)
+- [Project Proposal](./Proposal.md) > [Target audience and benefits](./Target-and-Benefits.md)
+- [Software development methodology](./SDM.md)
+- [Glossary](./Glossary.md)
 
 ---
 
@@ -32,7 +32,7 @@ needed. Use the worksheet to help identify and scope resource needs._
 
 #### What are the business problem, scope, and goal of this project?
 
-For a summary of this project, see the [Project proposal](Proposal).
+For a summary of this project, see the [Project proposal](./Proposal.md).
 
 #### Who will sponsor, manage, and lead the project?
 
@@ -66,7 +66,7 @@ For a summary of this project, see the [Project proposal](Proposal).
 
 ::THREE TO FIVE SENTENCES OR BULLETS HERE. COVER GENERAL APPROACH, IMPORTANT ASSUMPTIONS, KEY PRACTICES, AND PROJECT COORDINATION CONTROLS.
 
-For more information see the [Software Development Methodology](SDM).
+For more information see the [Software Development Methodology](./SDM.md).
 
 #### How will the project team be organized?
 
@@ -87,16 +87,16 @@ For more information see the [Software Development Methodology](SDM).
 #### How will changes be controlled?
 
 - ::Requests for requirements changes will be tracked in the issue tracker
-- ::The change control board ([CCB](Glossary#ccb)) will review requested changes and authorize work on them as appropriate
-- ::After the [feature complete](Glossary#featurecomplete) milestone, no new features will be added to this release.
-- ::After the [code complete](Glossary#codecomplete) milestone, no entirely new product source code will be added to this release.
+- ::The change control board (./[CCB](Glossary#ccb.md)) will review requested changes and authorize work on them as appropriate
+- ::After the [feature complete](./Glossary#featurecomplete.md) milestone, no new features will be added to this release.
+- ::After the [code complete](./Glossary#codecomplete.md) milestone, no entirely new product source code will be added to this release.
 - ::All source code commit log messages must refer to a specific issue ID, after the feature complete milestone.
 
 #### How will this plan be updated?
 
 ::This project plan will be updated as needed throughout the project.
 It will be placed under version control and instructions for
-accessing it will be on the [project website](Home). Any
+accessing it will be on the [project website](./Home.md). Any
 change to the plan will cause an automatic notification to be sent
 to a project mailing list.
 
@@ -123,7 +123,7 @@ finished. Don't worry about renumbering if you delete a step._
 | 2.3.     | ::Requirements validation                                  | 10h       |
 | 3.       | ::Elaboration                                              |           |
 | 3.1.     | ::High-level design                                        | 5h        |
-| 3.2.     | ::Low-level design (break down by component)               |           |
+| 3.2.     | ::Low-level design (./break down by component.md)               |           |
 | 3.2.A.   | ::Object design                                            | 10h       |
 | 3.2.B.   | ::User interface design                                    | 10h       |
 | 3.2.C.   | ::Database design                                          | 3h        |
@@ -134,12 +134,12 @@ finished. Don't worry about renumbering if you delete a step._
 | 4.1.A.2. | ::Implement COMPONENT-NAME 2                               | 25h       |
 | 4.1.A.3. | ::Implement COMPONENT-NAME 3                               | 25h       |
 | 4.1.A.4. | ::Implement COMPONENT-NAME 4                               | 25h       |
-| 4.1.A.5. | ::Integrate Components (mostly done during implementation) | 5h        |
-| 4.1.B.   | ::Technical documentation (break down by component)        | 10h       |
-| 4.1.C.   | ::User documentation (break down by component)             | 10h       |
+| 4.1.A.5. | ::Integrate Components (./mostly done during implementation.md) | 5h        |
+| 4.1.B.   | ::Technical documentation (./break down by component.md)        | 10h       |
+| 4.1.C.   | ::User documentation (./break down by component.md)             | 10h       |
 | 4.1.D.   | ::Testing                                                  |           |
 | 4.1.D.1. | ::Test planning                                            | 10h       |
-| 4.1.D.2. | ::Test code implementation (break down by component)       | 30h       |
+| 4.1.D.2. | ::Test code implementation (./break down by component.md)       | 30h       |
 | 4.1.D.3. | ::Test execution                                           | 10h       |
 | 4.2.     | ::Implementation review and evaluation                     | 15h       |
 | 5.       | ::Transition                                               |           |
@@ -170,7 +170,7 @@ engineering time that the team will spend on that task that week. Total
 your hours across and down._
 
 _TIP: These hours should total to the same as the total of the hours
-listed in your [resource needs](Resource-Needs) document. And, the
+listed in your [resource needs](./Resource-Needs.md) document. And, the
 hours for each type of effort resources needed should correspond to the
 sum for each type of task._
 
@@ -193,16 +193,16 @@ sum for each type of task._
 _TODO: List and rank the major risks of this project, and what you plan
 to do to mitigate each risk. If you don't plan to do anything to
 mitigate the risk, state that. Use the risk list below, or the [risks
-worksheet](Risks)._
+worksheet](./Risks.md)._
 
-Please see the [risks worksheet](Risks).
+Please see the [risks worksheet](./Risks.md).
 
 #### The main risks of this project are
 
 1. ::There is a potential conflict between the goals of a high-quality appearance and one that is completely customizable. We can only succeed if players find the web site appealing, and game vendors can customize it with no more effort than would be needed to build a static website. We already have a design in mind that will address this risk and we will review it with a web site designer who worked for a game vendor site.
 2. ::There are significant technical difficulties in building a web site and web application. This will be a risk because one person on our team has much experience with the relevant tools and technologies. Although the others will learn, we will certainly make some mistakes and sub-optimal choices. We will address this risk by scoping the project such that we have enough time to train and to review the design and implementation.
 3. ::The schedule for this project is very short. We will manage this by planning a conservatively scoped functional core and series of functional enhancements that can be individually slipped to later releases if needed.
-4. ::The performance of the system will be significantly impacted by the decisions made during the [database design task](#3.2.C). None of our current team members has experience with database optimization. To address this, we will arrange a review meeting with an experienced DBA or hire a consultant from the database vendor.
+4. ::The performance of the system will be significantly impacted by the decisions made during the [database design task](./#3.2.C.md). None of our current team members has experience with database optimization. To address this, we will arrange a review meeting with an experienced DBA or hire a consultant from the database vendor.
 5. ::We could be underestimating known tasks.
    HOW TO AVOID/MITIGATE?
 6. ::We could be underestimating the impact of unknown tasks.

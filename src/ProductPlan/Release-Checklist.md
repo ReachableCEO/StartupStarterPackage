@@ -6,7 +6,7 @@ those answers that do not apply._
 
 ##### Project
 
-::[PROJECT-NAME](Home)
+::[PROJECT-NAME](./Home.md)
 
 ##### Internal Release Number
 
@@ -19,9 +19,9 @@ those answers that do not apply._
 ##### Release audience
 
 - ::General availability release
-- ::Customer-specific release: CUSTOMER(S)
-- ::Developer release (Internal usage only)
-- ::Early access release (Controlled external access)
+- ::Customer-specific release: CUSTOMER(./S.md)
+- ::Developer release (./Internal usage only.md)
+- ::Early access release (./Controlled external access.md)
 
 ---
 
@@ -111,7 +111,7 @@ issue tracker._
 | ----------------------------------------------------------------------------- | ------- | -------- |
 | ::Legal risks associated with this release have been identified and tracked   | Pending |          |
 | ::We hold proper licenses for all reused components and intellectual property | Pending |          |
-| ::We conform to all relevant laws and regulations (e.g., export, safety)      | Pending |          |
+| ::We conform to all relevant laws and regulations (./e.g., export, safety.md)      | Pending |          |
 | ::The legal team is satisfied with this release                               | Pending |          |
 
 #### Possible status values
@@ -129,7 +129,7 @@ that they will be explicitly managed on the next release. Conduct a
 postmortem review to help expose difficulties rather than repeat them._
 
 _TIP: You might consider some of the following additional stakeholders at
-your organization: Other engineering groups (i.e., hardware design),
+your organization: Other engineering groups (./i.e., hardware design.md),
 Manufacturing and Shipping, Software Process Improvement, Key customers
 and partners, External developers, Risk Management, Business
 Development, and Upper Management._

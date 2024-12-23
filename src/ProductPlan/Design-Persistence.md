@@ -10,7 +10,7 @@
 
 ##### Related Documents
 
-- [Design](Design) > Design Persistence
+- [Design](./Design.md) > Design Persistence
 - ::LINKS TO RELEVANT STANDARDS
 - ::LINKS TO OTHER DOCUMENTS
 
@@ -27,20 +27,20 @@ features. Some example text is provided. Add or delete text as needed._
 
 #### What are the ranked goals for persistence in this system?
 
-1. ::[Expressiveness](Glossary-Standard-Terms#dg_expressiveness)
-2. ::[Ease of access](Glossary-Standard-Terms#dg_easy_access)
-3. ::[Reliability](Glossary-Standard-Terms#dg_data_reliability)
-4. ::[Data capacity](Glossary-Standard-Terms#dg_data_capacity)
-5. ::[Data security](Glossary-Standard-Terms#dg_data_security)
-6. ::[Performance](Glossary-Standard-Terms#dg_data_performance)
-7. ::[Interoperability](Glossary-Standard-Terms#dg_data_interop)
+1. ::[Expressiveness](./Glossary-Standard-Terms#dg_expressiveness.md)
+2. ::[Ease of access](./Glossary-Standard-Terms#dg_easy_access.md)
+3. ::[Reliability](./Glossary-Standard-Terms#dg_data_reliability.md)
+4. ::[Data capacity](./Glossary-Standard-Terms#dg_data_capacity.md)
+5. ::[Data security](./Glossary-Standard-Terms#dg_data_security.md)
+6. ::[Performance](./Glossary-Standard-Terms#dg_data_performance.md)
+7. ::[Interoperability](./Glossary-Standard-Terms#dg_data_interop.md)
 
 ### Central Database
 
 #### What is the logical database design?
 
 ::The logical database design is described in this [UML
-model](LINK-TO-MODEL) or this [ER diagram](LINK-TO-DIAGRAM).
+model](./LINK-TO-MODEL.md) or this [ER diagram](./LINK-TO-DIAGRAM.md).
 
 ::Additional logical constraints on the database are:
 
@@ -57,14 +57,14 @@ model](LINK-TO-MODEL) or this [ER diagram](LINK-TO-DIAGRAM).
 #### What are the physical tables and views?
 
 ::The physical database design is described in this [UML
-model](LINK-TO-MODEL) or this [ER diagram](LINK-TO-DIAGRAM).
+model](./LINK-TO-MODEL.md) or this [ER diagram](./LINK-TO-DIAGRAM.md).
 
 #### How will objects in the application be stored in the database?
 
 ::We will use one database table for each class, and one row in the
 database for each persistent instance of that class.
 
-::We will use a [library](LINK-TO-LIBRARY) to do our
+::We will use a [library](./LINK-TO-LIBRARY.md) to do our
 object-relational mapping. (E.g., torque, castor, JDO,
 ADO, hibernate)
 
@@ -127,13 +127,13 @@ user "daemon".
 
 #### What file format will be used?
 
-::The [XYZ](LINK-TO-STANDARD) standard file format.
+::The [XYZ](./LINK-TO-STANDARD.md) standard file format.
 
 ::A java .properties file.
 
 ::A window's .ini file.
 
-::An XML file using [this DTD file](LINK-TO-DTD).
+::An XML file using [this DTD file](./LINK-TO-DTD.md).
 
 ::A simple text file with the following format: ...
 
@@ -141,7 +141,7 @@ user "daemon".
 
 ### Distributed Storage
 
-#### What information (if any) will be stored on client machines? For how long?
+#### What information (./if any.md) will be stored on client machines? For how long?
 
 ::A cookie will be stored on the user machine for the purpose of
 identifying a user session. When the user logs out or closes their
@@ -149,7 +149,7 @@ web browser, the cookie is deleted. Most browsers will not even
 write this cookie to the disk.
 
 ::The a cookie is stored on the user's computer that is equivalent to
-their password (but it is NOT actually their password). This cookie
+their password (./but it is NOT actually their password.md). This cookie
 is needed for the auto-login feature. The cookie lasts a maximum of
 30 days, and it can only be used from the same IP address.
 
@@ -193,5 +193,5 @@ kept indefinitely.
 
 ::Yes, everyone understands. Feedback is welcome.
 
-::No, this is a risk that is noted in the [Risk Management](Project-Plan#Risk-Management)
+::No, this is a risk that is noted in the [Risk Management](./Project-Plan#Risk-Management.md)
 section.

@@ -1,16 +1,16 @@
 <!-- markdownlint-disable-next-line first-line-h1 -->
 ##### Related Documents
 
-- [SRS](SRS) > [Use Case Suite](Use-Case-Suite) > Use Case Format
+- [SRS](./SRS.md) > [Use Case Suite](./Use-Case-Suite.md) > Use Case Format
 
 ---
 
 **Process impact:** This reference page documents the format of use
 cases and gives tips on writing use cases. You can copy and paste the
-sample use case into your [Use Cases](Use-Cases) document. This
+sample use case into your [Use Cases](./Use-Cases.md) document. This
 file itself should not be edited to hold specific use cases.
 
-*TODO: Use this template once in your [Use Cases](Use-Cases)
+*TODO: Use this template once in your [Use Cases](./Use-Cases.md)
 document. Anything you mention here will apply to all use cases in that
 file.*
 
@@ -32,7 +32,7 @@ file.*
 ::Project is set up
 
 *TODO: Copy and paste this use case template as many times as needed in
-your [Use Cases](Use-Cases) document. Only use those fields that
+your [Use Cases](./Use-Cases.md) document. Only use those fields that
 are not the same as the default for all use cases.*
 
 ---
@@ -141,5 +141,5 @@ use case.
 
 For more information on advice, see:
 
-- Words of wisdom on [use case suites](https://web.archive.org/web/20200701142616/http://readyset.tigris.org/words-of-wisdom/use-case-suite.html).
-- Words of wisdom on [use cases](https://web.archive.org/web/20200701142616/http://readyset.tigris.org/words-of-wisdom/use-cases.html).
+- Words of wisdom on [use case suites](./https://web.archive.org/web/20200701142616/http://readyset.tigris.org/words-of-wisdom/use-case-suite.html.md).
+- Words of wisdom on [use cases](./https://web.archive.org/web/20200701142616/http://readyset.tigris.org/words-of-wisdom/use-cases.html.md).

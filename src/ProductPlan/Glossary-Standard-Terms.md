@@ -3,10 +3,10 @@
 as they are used across projects. Individual projects should not need to
 edit this file. Writing out the definitions of terms and acronyms here
 helps keep other documents more concise and easy to edit. Check the
-[ReadySET glossary](https://web.archive.org/web/20200702035436/http://readyset.tigris.org/templates/glossary-std.html) for
+[ReadySET glossary](./https://web.archive.org/web/20200702035436/http://readyset.tigris.org/templates/glossary-std.html.md) for
 updates.
 
-Jump to: [General](#general-terms) | [Computer science & technology](#computer-science-and-technology-terms) | [Process](#process-terms) | [Software development tools](#development-tool-terms) | [Requirements](#requirements-terms) | [Design](#design-terms) | [Design goals terms](#design-goals-terms) | [QA terms](#qa-terms) | [QA goals terms](#qa-goals-terms) | [Additional terms](#additional-standard-terms)| [Project terms](Glossary)
+Jump to: [General](./#general-terms.md) | [Computer science & technology](./#computer-science-and-technology-terms.md) | [Process](./#process-terms.md) | [Software development tools](./#development-tool-terms.md) | [Requirements](./#requirements-terms.md) | [Design](./#design-terms.md) | [Design goals terms](./#design-goals-terms.md) | [QA terms](./#qa-terms.md) | [QA goals terms](./#qa-goals-terms.md) | [Additional terms](./#additional-standard-terms.md)| [Project terms](./Glossary.md)
 
 ## General Terms
 
@@ -72,23 +72,23 @@ sticky note.
 
 ## Computer Science and Technology Terms
 
-### ::API (Application Programming Interface)
+### ::API (./Application Programming Interface.md)
 
 An API is a set of functions that one software component makes
 available to other software components. That allows other programs
 to "call" this program via direct function calls, or more indirect
-communications such as [SOAP](#soap) messages.
+communications such as [SOAP](./#soap.md) messages.
 
 ### ::SOAP
 
-SOAP (Simple Object Access Protocol) is the message format used by
+SOAP (./Simple Object Access Protocol.md) is the message format used by
 standard web services. It entails sending an XML document to a
 server in order to invoke an operation on the server-side.
-[More information on SOAP](http://directory.google.com/Top/Computers/Programming/Internet/Web_Services/SOAP/?tc=1).
+[More information on SOAP](./http://directory.google.com/Top/Computers/Programming/Internet/Web_Services/SOAP/?tc=1.md).
 
 ## Process Terms
 
-### Change Control Board (CCB)
+### Change Control Board (./CCB.md)
 
 A group of people who review proposed changes to the project
 requirements and/or source code to accept or reject changes in each
@@ -138,7 +138,7 @@ than "10.1" or "11".
 ### Release Number
 
 The term "release number" by itself refers to an
-[external release number](#external-release-number). Users normally are not aware
+[external release number](./#external-release-number.md). Users normally are not aware
 of the existence of any internal release numbers.
 
 ## Development Tool Terms
@@ -167,7 +167,7 @@ of the existence of any internal release numbers.
 
 ::DEFINITION1
 
-### Source Code Formatter (Pretty Printer)
+### Source Code Formatter (./Pretty Printer.md)
 
 ::DEFINITION1
 
@@ -189,7 +189,7 @@ many different ways as part of many different use cases.
 ### Use case
 
 The main part of a use case is a set of steps that give an example
-of how an [actor](#actor) can use the product to succeed at
+of how an [actor](./#actor.md) can use the product to succeed at
 a goal. These steps are called the "Main success scenario", and they
 include both user intentions and system responses. One use case may
 show how the actor uses several features to accomplish a goal.
@@ -290,7 +290,7 @@ Prevent, e.g., hackers opening a command shell on our server.
 
 ### Abuse prevention
 
-Prevention of abuse (e.g., using our system to send spam).
+Prevention of abuse (./e.g., using our system to send spam.md).
 
 ### Auditability
 
@@ -311,7 +311,7 @@ reasonable number of clicks and keystrokes.
 ### Safety
 
 Users are not likely to accidentally produce an undesired result
-(e.g., delete data, or send a half-finished email).
+(./e.g., delete data, or send a half-finished email.md).
 
 ### Consistency and familiarity
 
@@ -322,18 +322,18 @@ this system.
 
 ### Bug
 
-*n.* **Deprecated** since 1991. See [defect](#defect).
+*n.* **Deprecated** since 1991. See [defect](./#defect.md).
 
 ### Error
 
 *v.* A mistaken thought in the developer's mind. Often caused by
 miscommunication or bad assumptions. Errors can create
-[defects](#defect). E.g., a developer might erroneously think that
+[defects](./#defect.md). E.g., a developer might erroneously think that
 the square root of -4 is -2.
 
 ### Defect
 
-*n.* The result of the developer's [error](#error) embodied in the
+*n.* The result of the developer's [error](./#error.md) embodied in the
 product source code, initial data, or documents. E.g., a square root
 function which allows negative numbers as arguments is defective.
 Defects can be removed by changing the source code, initial data,
@@ -345,14 +345,14 @@ or document.
 provided to defective code, it may cause an exception, or go into an
 infinite loop, or store an incorrect value in an internal variable.
 A fault is not normally visible to users, only the
-[failure](#failure) is visible.
+[failure](./#failure.md) is visible.
 
 ### Failure
 
-*n.* The user-visible result of a [fault](#fault). E.g., an error
+*n.* The user-visible result of a [fault](./#fault.md). E.g., an error
 message or an incorrect result. This is evidence that can be
 reported in a defect report. Developers use failure evidence during
-debugging to eventually find and remove [defects](#defect).
+debugging to eventually find and remove [defects](./#defect.md).
 
 ## QA Goals Terms
 
@@ -512,7 +512,7 @@ up without downtime? Can the system be upgraded practically?
 
 ### Maintainability > Understandability
 
-Will it be easy for (future) developers to understand how the system
+Will it be easy for (./future.md) developers to understand how the system
 works?
 
 ### Maintainability > Evolvability
@@ -524,16 +524,16 @@ Can the system easily be modified and extended over time?
 Can the system easily be tested? Do the requirements precisely
 specify possible inputs and the desired results? Can the system be
 tested in parts? When failures are observed, can they be traced back
-to defects in specific components (i.e., debugging)? Is testing
+to defects in specific components (./i.e., debugging.md)? Is testing
 practical with the available testing tools?
 
 ## Additional Standard Terms
 
 For additional standard terms, see the following reference sites:
 
-- [Dictionary.com](http://www.dictionary.com/)
-- [Whatis.com](http://www.whatis.com/)
-- [NIST Dictionary of Algorithms and Data Structures](http://www.nist.gov/dads/)
-- [Free on-line dictionary of computing](http://foldoc.doc.ic.ac.uk/foldoc/index.html)
-- [IBM's glossary of computing terms](http://www-3.ibm.com/ibm/terminology/goc/gocmain.htm)
-- [Jargon File](http://www.jargon.org/)
+- [Dictionary.com](./http://www.dictionary.com/.md)
+- [Whatis.com](./http://www.whatis.com/.md)
+- [NIST Dictionary of Algorithms and Data Structures](./http://www.nist.gov/dads/.md)
+- [Free on-line dictionary of computing](./http://foldoc.doc.ic.ac.uk/foldoc/index.html.md)
+- [IBM's glossary of computing terms](./http://www-3.ibm.com/ibm/terminology/goc/gocmain.htm.md)
+- [Jargon File](./http://www.jargon.org/.md)

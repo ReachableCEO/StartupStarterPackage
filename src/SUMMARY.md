@@ -17,6 +17,8 @@
 
 # Wardely Value Chain Map
 
+- [Wardley Value Chain](./WardleyValueMap/ValueChain.md)
+
 # Strategic Context
 
 - [Overview](./StrategicContext/QuestionList.md)

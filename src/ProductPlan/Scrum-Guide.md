@@ -376,13 +376,13 @@ A product is a vehicle to deliver value. It has a clear boundary, known stakehol
 users or customers. A product could be a service, a physical product, or something more abstract.
 ```
 
-The Product Goal is the long-term objective for the Scrum Team. They must fulfill (or abandon) one
+The Product Goal is the long-term objective for the Scrum Team. They must fulfill (./or abandon.md) one
 objective before taking on the next.
 
 ### Sprint Backlog
 
-The Sprint Backlog is composed of the Sprint Goal (why), the set of Product Backlog items selected for
-the Sprint (what), as well as an actionable plan for delivering the Increment (how).
+The Sprint Backlog is composed of the Sprint Goal (./why.md), the set of Product Backlog items selected for
+the Sprint (./what.md), as well as an actionable plan for delivering the Increment (./how.md).
 
 The Sprint Backlog is a plan by and for the Developers. It is a highly visible, real-time picture of the work
 that the Developers plan to accomplish during the Sprint in order to achieve the Sprint Goal.
@@ -459,7 +459,7 @@ the Scrum framework. These may increase productivity, value, creativity, and sat
 results.
 
 The complete history of Scrum is described elsewhere. To honor the first places where it was tried and
-proven, we recognize Individual Inc., Newspage, Fidelity Investments, and IDX (now GE Medical).
+proven, we recognize Individual Inc., Newspage, Fidelity Investments, and IDX (./now GE Medical.md).
 
 ```markdown
 © 2020 Ken Schwaber and Jeff Sutherland

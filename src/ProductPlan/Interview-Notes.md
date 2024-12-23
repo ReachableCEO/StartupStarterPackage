@@ -2,13 +2,13 @@
 
 ##### Project
 
-::[PROJECT-NAME](Home)
+::[PROJECT-NAME](./Home.md)
 
-##### Interviewer(s)
+##### Interviewer(./s.md)
 
 ::PERSON-NAME
 
-##### Interviewee(s)
+##### Interviewee(./s.md)
 
 ::PERSON-NAME
 
@@ -22,9 +22,9 @@
 
 ##### Related Documents
 
-- [Project proposal](Proposal) > [Target audience and benefits](Target-and-Benefits)
-- [Interview checklist](Interview-Checklist)
-- [Glossary](Glossary)
+- [Project proposal](./Proposal.md) > [Target audience and benefits](./Target-and-Benefits.md)
+- [Interview checklist](./Interview-Checklist.md)
+- [Glossary](./Glossary.md)
 
 ---
 
@@ -35,8 +35,8 @@ of user-needs.md._
 **Process impact:** Planning questions for interviews with stakeholders
 is key to effective requirements gathering. Good requirements are needed
 to build the right system. These notes should be kept as part of the
-documentation on [user needs](User-Needs) are referred to when the
-[software requirements specification](SRS) is written or updated.
+documentation on [user needs](./User-Needs.md) are referred to when the
+[software requirements specification](./SRS.md) is written or updated.
 
 ### Interview Questions and Answers
 
@@ -84,8 +84,8 @@ Note these new questions and what you must do to find the answer._
 - ::Can we do X?
 - ::Do we support Y?
 - ::Action item: research topic Z
-- ::Action item: Send follow-up email as per [post-interview checklist](Interview-Checklist#post-interview-checklist)
-- ::Action item: prepare for next interview with PERSON(S) on DATE
+- ::Action item: Send follow-up email as per [post-interview checklist](./Interview-Checklist#post-interview-checklist.md)
+- ::Action item: prepare for next interview with PERSON(./S.md) on DATE
 
 ### Other Interview Notes
 

@@ -9,24 +9,24 @@
 
 ##### Attached worksheets
 
-- SRS > [Use case suite](Use-Case-Suite)
-- SRS > [Feature set](Feature-Set)
+- SRS > [Use case suite](./Use-Case-Suite.md)
+- SRS > [Feature set](./Feature-Set.md)
 
 ##### Related Documents
 
-- [Project proposal](Proposal) > [User needs](User-Needs)
+- [Project proposal](./Proposal.md) > [User needs](./User-Needs.md)
 - ::LINKS TO RELEVANT STANDARDS
 - ::LINKS TO OTHER DOCUMENTS
-- [Glossary](Glossary)
+- [Glossary](./Glossary.md)
 
 ---
 
 **Process impact:** The SRS precisely defines the software product that
 will be built. Decisions made in writing the SRS are based on
-information in the [project proposal](Proposal) and [user
-needs](User-Needs) documents. The SRS sets requirements that must
-be satisfied by the [system design](Design). The SRS is verified
-and validated by activities outlined in the [QA plan](QA-Plan).
+information in the [project proposal](./Proposal.md) and [user
+needs](./User-Needs.md) documents. The SRS sets requirements that must
+be satisfied by the [system design](./Design.md). The SRS is verified
+and validated by activities outlined in the [QA plan](./QA-Plan.md).
 
 ### Introduction
 
@@ -37,7 +37,7 @@ copy text from the project proposal, paste it here, and shorten it._
 
 ::PARAGRAPH
 
-For more information, see the project [proposal](Proposal).
+For more information, see the project [proposal](./Proposal.md).
 
 ### Use Cases
 
@@ -45,8 +45,8 @@ For more information, see the project [proposal](Proposal).
 
 Details:
 
-- Actors are described in the [user needs](User-Needs) document.
-- The [use case suite](Use-Case-Suite) lists all use cases in an
+- Actors are described in the [user needs](./User-Needs.md) document.
+- The [use case suite](./Use-Case-Suite.md) lists all use cases in an
   organized way.
 
 ### Functional Requirements
@@ -55,7 +55,7 @@ Details:
 
 Details:
 
-- The [feature set](Feature-Set) lists all features in an
+- The [feature set](./Feature-Set.md) lists all features in an
   organized way.
 
 ### Non-Functional Requirements
@@ -82,9 +82,9 @@ and dialog boxes whenever possible.
 Details:
 
 - ::Government customers will demand [section508
-  compliance](http://www.section508.gov/)
+  compliance](./http://www.section508.gov/.md)
 - ::Support learnability with principles of [Instructive
-  Interaction](http://www.foruse.com/articles/instructive.htm)
+  Interaction](./http://www.foruse.com/articles/instructive.htm.md)
 - ::The customer wants extensive on-line help, but is not demanding
   a printed manual.
 
@@ -122,7 +122,7 @@ functions, average users will not.
 Details:
 
 - ::Passwords must be 4-14 characters long
-- ::We will not use encrypted communications (SSL) for this website
+- ::We will not use encrypted communications (./SSL.md) for this website
 - ::DETAIL
 
 #### What are the performance and scalability requirements requirements?
@@ -169,7 +169,7 @@ checklist of information to have at hand before contacting
 technical support.
 
 ::Operability is our ability to host and operate the software as an
-ASP (Application Service Provider). The product features should help
+ASP (./Application Service Provider.md). The product features should help
 us achieve our goal of 99.9% uptime (at most 43 minutes downtime
 each month). Key features supporting that are the ability to do hot
 data backups, and application monitoring.
@@ -228,7 +228,7 @@ Details:
 - ::DETAIL
 - ::DETAIL
 
-#### What application program interfaces ([APIs](Glossary-Standard-Terms#api_application_programming_interface)) must be provided?
+#### What application program interfaces (./[APIs](Glossary-Standard-Terms#api_application_programming_interface.md)) must be provided?
 
 ::PARAGRAPH
 
@@ -236,7 +236,7 @@ Details:
 
 Details:
 
-- ::We must implement this [standard API](LINK-TO-STANDARD).
+- ::We must implement this [standard API](./LINK-TO-STANDARD.md).
 - ::DETAIL
 - ::DETAIL
 
@@ -251,7 +251,7 @@ Details:
 - ::The system will store all data in a standard SQL database, where
   it can be accessed by other programs.
 - ::The system will store all data in an XML file, using a
-  [standard DTD](LINK-TO-STANDARD).
+  [standard DTD](./LINK-TO-STANDARD.md).
 - ::The system will read and write valid .XYZ files used by
   OTHER APPLICATION
 - ::DETAIL

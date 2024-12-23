@@ -4,7 +4,7 @@ which you may use the ReadySET templates.
 
 ### Copyright and License
 
-Copyright (C) 2003-2004 Jason Robbins. All rights reserved.
+Copyright (./C.md) 2003-2004 Jason Robbins. All rights reserved.
 
 Redistribution and use in source and binary forms, with or without
 modification, are permitted provided that the following conditions
@@ -21,7 +21,7 @@ INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES
 (INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR
 SERVICES; LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION)
 HOWEVER CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT,
-STRICT LIABILITY, OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING
+STRICT LIABILITY, OR TORT (./INCLUDING NEGLIGENCE OR OTHERWISE.md) ARISING
 IN ANY WAY OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE
 POSSIBILITY OF SUCH DAMAGE.
 
@@ -49,7 +49,7 @@ If you use the templates and fill in details about a given product,
 go ahead. If you are thinking of making a product that includes the
 templates for use _as templates_, you must retain this file and the
 copyright statement in a visible footnote. An enhanced commercial
-version of these templates, [ReadySETPro](http://www.readysetpro.com/),
+version of these templates, [ReadySETPro](./http://www.readysetpro.com/.md),
 is already in development
 
 #### Can I combine these templates with other templates or documents?
@@ -63,11 +63,11 @@ same license.
 No, but it would be very welcome. Even if you don't modify the
 templates, you can share your "words of wisdom". For more
 information on contributing, see the
-[ReadySET home page](https://web.archive.org/web/20200701142616/http://readyset.tigris.org/).
+[ReadySET home page](./https://web.archive.org/web/20200701142616/http://readyset.tigris.org/.md).
 
 #### ReadySET seems too good to be true. What is the catch? Why would anyone buy a commercial version?
 
 There is no catch. However, the scope of ReadySET is limited to only
 most common needs of development projects. It is easy to get started
-with ReadySET, but [ReadySET Pro](http://www.readysetpro.com/) holds
+with ReadySET, but [ReadySET Pro](./http://www.readysetpro.com/.md) holds
 much more value for corporate users.

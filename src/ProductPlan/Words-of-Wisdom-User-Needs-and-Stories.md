@@ -14,7 +14,7 @@ A "business environment" is the overall business setting in which the system wil
 
 Describe where the server will be located. And, describe where users will be located. Briefly note the physical characteristics of these environments affect the system's performance or usability.
 
-### What is the system's technology environment (hardware and software)?
+### What is the system's technology environment (./hardware and software.md)?
 
 Describe the hardware and software that the system depends on, or interoperates with. Note compatability features that users expect.
 

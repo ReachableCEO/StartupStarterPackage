@@ -1,7 +1,7 @@
 <!-- markdownlint-disable-next-line first-line-h1 -->
 ##### Project
 
-::[PROJECT-NAME](Home)
+::[PROJECT-NAME](./Home.md)
 
 ##### Internal Release Number
 
@@ -9,18 +9,18 @@
 
 ##### Related Documents
 
-- [SRS](SRS) > [Feature Set](Feature-Set) > Feature Specification Format
+- [SRS](./SRS.md) > [Feature Set](./Feature-Set.md) > Feature Specification Format
 
 ---
 
 **Process impact:** This reference page documents the format of feature
 descriptions and gives tips on writing them. You can copy and paste the
-feature specification template into your [Features](Features)
+feature specification template into your [Features](./Features.md)
 document. This file itself should not be edited to hold specific
 features.
 
 _TODO: Copy and paste this feature specification template as many times
-as needed in your [Features](Features) document._
+as needed in your [Features](./Features.md) document._
 
 ---
 
@@ -32,9 +32,9 @@ Effort: ::Months | Weeks | Days | Hours
 
 Risk: ::Dangerous | 3-Risk | 2-Risk | 1-Risk | Safe
 
-Functional area(s): ::WORD, WORD, WORD
+Functional area(./s.md): ::WORD, WORD, WORD
 
-Use case(s): ::[UC-01](Use-Cases#UC-01)
+Use case(./s.md): ::[UC-01](./Use-Cases#UC-01.md)
 
 Description:
 
@@ -79,6 +79,6 @@ Notes and Questions:
 
 For more information on advice, see:
 
-- Words of wisdom on [feature sets](https://web.archive.org/web/20200701142616/http://readyset.tigris.org/words-of-wisdom/feature-set.html).
+- Words of wisdom on [feature sets](./https://web.archive.org/web/20200701142616/http://readyset.tigris.org/words-of-wisdom/feature-set.html.md).
 
-- Words of wisdom on [feature specifications](https://web.archive.org/web/20200701142616/http://readyset.tigris.org/words-of-wisdom/features.html).
+- Words of wisdom on [feature specifications](./https://web.archive.org/web/20200701142616/http://readyset.tigris.org/words-of-wisdom/features.html.md).

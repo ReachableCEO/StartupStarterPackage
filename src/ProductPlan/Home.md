@@ -20,11 +20,11 @@ _TODO: Answer these questions in your own words by filling in each_
 
 #### What development methodology is being used?
 
-::See our [software development methodology](SDM) document.
+::See our [software development methodology](./SDM.md) document.
 
 #### Where should a new team member start?
 
-::For more information, see the [project proposal](Proposal).
+::For more information, see the [project proposal](./Proposal.md).
 
 ### Status
 
@@ -34,7 +34,7 @@ is written in the status reports, not here._
 
 ::We have completed our second beta release and are currently working on
 adding more of the functionality described in our product
-[specification](srs) and fixing defects.
+[specification](./srs.md) and fixing defects.
 
 ::The next major milestone is a third beta release with nearly complete
 functionality and a wider set of testers.
@@ -43,19 +43,19 @@ functionality and a wider set of testers.
 
 | By Activity   | Documents                                                                                                                                                                                              |
 | ------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| Inception:    | [Home](Home), [Project Proposal](Proposal), [Target Audience and Benefits](Target-and-Benefits), [Statement of User Needs](User-Needs)                                                                 |
-| Reference:    | [Glossary](Glossary), [Software Development Methodology](SDM), [Document Cross Reference](Document-Cross-Ref), [All-in-one project summary](Summary)                                                   |
-| Elaboration:  | [Project Plan](Project-Plan), [Software Requirements Specification](SRS), [Feature Set](Feature-Set), [Use Case Suite](Use-Case-Suite), [Design](Design), [QA Plan](QA-Plan), [Test Suite](Test-Suite) |
-| Construction: | [Review Meeting Notes](Review-Meeting-Notes), [Implementation Notes](Implementation-Notes), [User Guide](User-Guide), [FAQ / Troubleshooting Guide](FAQ)                                               |
-| Transition:   | [Install / Quick Start](Installation-Guide), [Demo Script](Demo-Script), [Release notes](Release-Notes), [Release checklist](Release-Checklist), [Post Mortem](Post-Mortem)                            |
-| Continuous:   | [Status Report](Status-Report)                                                                                                                                                                         |
+| Inception:    | [Home](./Home.md), [Project Proposal](./Proposal.md), [Target Audience and Benefits](./Target-and-Benefits.md), [Statement of User Needs](./User-Needs.md)                                                                 |
+| Reference:    | [Glossary](./Glossary.md), [Software Development Methodology](./SDM.md), [Document Cross Reference](./Document-Cross-Ref.md), [All-in-one project summary](./Summary.md)                                                   |
+| Elaboration:  | [Project Plan](./Project-Plan.md), [Software Requirements Specification](./SRS.md), [Feature Set](./Feature-Set.md), [Use Case Suite](./Use-Case-Suite.md), [Design](./Design.md), [QA Plan](./QA-Plan.md), [Test Suite](./Test-Suite.md) |
+| Construction: | [Review Meeting Notes](./Review-Meeting-Notes.md), [Implementation Notes](./Implementation-Notes.md), [User Guide](./User-Guide.md), [FAQ / Troubleshooting Guide](./FAQ.md)                                               |
+| Transition:   | [Install / Quick Start](./Installation-Guide.md), [Demo Script](./Demo-Script.md), [Release notes](./Release-Notes.md), [Release checklist](./Release-Checklist.md), [Post Mortem](./Post-Mortem.md)                            |
+| Continuous:   | [Status Report](./Status-Report.md)                                                                                                                                                                         |
 
 | By Audience          | Documents                                                                                                                                                                                                                                                                      |
 | -------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| For Everyone:        | [Home](Home), [Project Proposal](Proposal), [Target Audience and Benefits](Target-and-Benefits), [Statement of User Needs](User-Needs), [Software Requirements Specification](SRS), [Project Plan](Project-plan), [Release Checklist](Release-Checklist), [Glossary](Glossary) |
-| For Management:      | [Project Resource Needs](Resource-Needs), [Status Report](Status-Report)                                                                                                                                                                                                       |
-| For Developers:      | [Design](Design), [Review Meeting Notes](Review-Meeting-Notes), [Software Development Methodology](SDM)                                                                                                                                                                        |
-| For QA:              | [QA Plan](QA-Plan)                                                                                                                                                                                                                                                             |
-| For End Users:       | [Install / Quick start](Installation-Guide), [User Guide](User-Guide), [Release Notes](Release-Notes)                                                                                                                                                                          |
-| For Support and Ops: | [Implementation Notes](Implementation-Notes), [FAQ / Troubleshooting Guide](FAQ)                                                                                                                                                                                               |
-| For Sales/Legal:     | [Demo Script](Demo-Script), [Legal Issues](Legal)                                                                                                                                                                                                                              |
+| For Everyone:        | [Home](./Home.md), [Project Proposal](./Proposal.md), [Target Audience and Benefits](./Target-and-Benefits.md), [Statement of User Needs](./User-Needs.md), [Software Requirements Specification](./SRS.md), [Project Plan](./Project-plan.md), [Release Checklist](./Release-Checklist.md), [Glossary](./Glossary.md) |
+| For Management:      | [Project Resource Needs](./Resource-Needs.md), [Status Report](./Status-Report.md)                                                                                                                                                                                                       |
+| For Developers:      | [Design](./Design.md), [Review Meeting Notes](./Review-Meeting-Notes.md), [Software Development Methodology](./SDM.md)                                                                                                                                                                        |
+| For QA:              | [QA Plan](./QA-Plan.md)                                                                                                                                                                                                                                                             |
+| For End Users:       | [Install / Quick start](./Installation-Guide.md), [User Guide](./User-Guide.md), [Release Notes](./Release-Notes.md)                                                                                                                                                                          |
+| For Support and Ops: | [Implementation Notes](./Implementation-Notes.md), [FAQ / Troubleshooting Guide](./FAQ.md)                                                                                                                                                                                               |
+| For Sales/Legal:     | [Demo Script](./Demo-Script.md), [Legal Issues](./Legal.md)                                                                                                                                                                                                                              |

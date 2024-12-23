@@ -10,9 +10,9 @@
 
 ##### Related Documents
 
-- [Design](Design) > Source Code Organization and Build System
-- ::[Example build.xml for Tomcat](http://jakarta.apache.org/tomcat/tomcat-4.1-doc/appdev/build.xml.txt)
-- ::[Apache Ant manual](http://ant.apache.org/manual/index)
+- [Design](./Design.md) > Source Code Organization and Build System
+- ::[Example build.xml for Tomcat](./http://jakarta.apache.org/tomcat/tomcat-4.1-doc/appdev/build.xml.txt.md)
+- ::[Apache Ant manual](./http://ant.apache.org/manual/index.md)
 - ::LINKS TO RELEVANT STANDARDS
 - ::LINKS TO OTHER DOCUMENTS
 
@@ -61,7 +61,7 @@ overall structure or build process._
 | ::data/                              | ::Yes | ::Initial data to load into database and/or file system, if any                 |
 | ::lib/                               | ::Yes | ::Libraries reused by this project, if any                                      |
 | ::scripts/                           | ::Yes | ::Command-line utility scripts used by this project, if any                     |
-| ::www/                               | ::Yes | ::Project documents (e.g., overview, plan, requirements, and design)            |
+| ::www/                               | ::Yes | ::Project documents (./e.g., overview, plan, requirements, and design.md)            |
 | ::build/                             | ::No  | ::Output of build process                                                       |
 | ::build/WEB-INF/classes/             | ::No  | ::Compiled code output by build process                                         |
 | ::dist/docs/api/                     | ::No  | ::API documentation output from build process                                   |
@@ -125,4 +125,4 @@ aimed at specific platforms.
 
 ::Yes, everyone understands. Feedback is welcome.
 
-::No, this is a risk that is noted in the [Risk Management](Project-Plan#Risk-Management) section.
+::No, this is a risk that is noted in the [Risk Management](./Project-Plan#Risk-Management.md) section.

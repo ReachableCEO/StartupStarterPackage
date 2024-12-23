@@ -2,7 +2,7 @@
 
 ##### Project
 
-::[PROJECT-NAME](Home)
+::[PROJECT-NAME](./Home.md)
 
 ##### Project Time-frame
 
@@ -14,12 +14,12 @@
 
 ##### Attached Worksheets
 
-Project Proposal > [Target audience and benefits](Target-and-Benefits)
+Project Proposal > [Target audience and benefits](./Target-and-Benefits.md)
 
 ##### Related Documents
 
-- [Project plan](Project-Plan) > [Resource needs](Resource-Needs)
-- [Glossary](Glossary)
+- [Project plan](./Project-Plan.md) > [Resource needs](./Resource-Needs.md)
+- [Glossary](./Glossary.md)
 
 ---
 
@@ -33,7 +33,7 @@ project.
 
 _TODO: Replace the example text below with text that describes your
 project. What are the needs or problems that you are trying to address?
-Why do these needs (still) exist? Why are these problems worth solving?
+Why do these needs (./still.md) exist? Why are these problems worth solving?
 Who is the customer? Write 2-4 paragraphs._
 
 #### What is the setting and history behind this project?
@@ -65,8 +65,8 @@ motivated or honest in their evaluations. There are already some
 clan directory web sites, but they are not automated so they are
 always out of date and do not rate the quality of the websites.
 
-- ::[Example of current manually maintained clan website](#tbd)
-- ::[Link to existing competitor](#tbd)
+- ::[Example of current manually maintained clan website](./#tbd.md)
+- ::[Link to existing competitor](./#tbd.md)
 
 #### Why is this problem worth solving or worth solving better?
 
@@ -101,9 +101,9 @@ those advantages.
 
 ::The following pages provide additional background and motivation:
 
-- ::[Magazine article on this topic](#tbd)
-- ::[Industry analysis's report on massive-multi-player game market](#tbd)
-- ::[Quotes from game players](#tbd)
+- ::[Magazine article on this topic](./#tbd.md)
+- ::[Industry analysis's report on massive-multi-player game market](./#tbd.md)
+- ::[Quotes from game players](./#tbd.md)
 
 ### Goal
 
@@ -130,11 +130,11 @@ allows players to quickly find, evaluate, and join clans.
 
 #### Where are other documents that further explain the goal of this project?
 
-- ::[Mock-up](LINK-TO-MOCKUP)
-- ::[Early user stories](LINK-TO-EARLY-STORIES)
-- ::[Quotes from potential customers](LINK-TO-QUOTES)
-- ::[Comparison to existing competitors](LINK-TO-COMPARISON)
-- ::[Draft feature list](LINK-TO-DRAFT-FEATURES)
+- ::[Mock-up](./LINK-TO-MOCKUP.md)
+- ::[Early user stories](./LINK-TO-EARLY-STORIES.md)
+- ::[Quotes from potential customers](./LINK-TO-QUOTES.md)
+- ::[Comparison to existing competitors](./LINK-TO-COMPARISON.md)
+- ::[Draft feature list](./LINK-TO-DRAFT-FEATURES.md)
 
 ### Scope
 
@@ -148,7 +148,7 @@ bullet list, in/out list, and/or UML context diagram._
 ::We want to focus on the web application itself, and the features of that
 application that help build a good gaming community.
 
-::See the [context diagram](LINK-TO-CONTEXT-DIAGRAM).
+::See the [context diagram](./LINK-TO-CONTEXT-DIAGRAM.md).
 
 - ::Work with common servers and browsers that we are already
   familiar with.
@@ -161,7 +161,7 @@ application that help build a good gaming community.
 | In Scope                                                                               | Out of Scope                                                                                                                                                                                              |
 | -------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | ::Building a web application for use with standard web servers and application servers | ::Building a new web server or application server                                                                                                                                                         |
-| ::Working the most popular browsers (IE6, NN7/Mozilla)                                 | ::Working with uncommon or outdated browsers                                                                                                                                                              |
+| ::Working the most popular browsers (./IE6, NN7/Mozilla.md)                                 | ::Working with uncommon or outdated browsers                                                                                                                                                              |
 | ::Security in the form of user accounts, passwords, and permissions                    | ::Special security against hackers. Finding or patching security holes in existing software components.                                                                                                   |
 | ::One simple sample look-and-feel and instructions for customization                   | ::Our own high-quality look-and-feel. A library of look-and-feel options.                                                                                                                                 |
 | ::Database and server load and data volume that can be handled by one computer.        | ::Managing a cluster of servers.                                                                                                                                                                          |
@@ -218,5 +218,5 @@ over time.
 
 ### Project Plan
 
-See attached draft of [project plan](Project-Plan)
-and [resource needs](Resource-Needs).
+See attached draft of [project plan](./Project-Plan.md)
+and [resource needs](./Resource-Needs.md).

@@ -10,7 +10,7 @@
 
 ##### Related Documents
 
-- [Design](Design) > Design Security
+- [Design](./Design.md) > Design Security
 - ::LINKS TO RELEVANT STANDARDS
 - ::LINKS TO OTHER DOCUMENTS
 
@@ -26,10 +26,10 @@ _TODO: Answer the questions below to help you design needed security features. S
 
 #### What are the ranked goals for security in this system?
 
-1. ::[Data security](Glossary-Standard-Terms#data_security)
-2. ::[Intrusion prevention](Glossary-Standard-Terms#intrusion_prevention)
-3. ::[Abuse prevention](Glossary-Standard-Terms#abuse_prevention)
-4. ::[Auditability](Glossary-Standard-Terms#auditability)
+1. ::[Data security](./Glossary-Standard-Terms#data_security.md)
+2. ::[Intrusion prevention](./Glossary-Standard-Terms#intrusion_prevention.md)
+3. ::[Abuse prevention](./Glossary-Standard-Terms#abuse_prevention.md)
+4. ::[Auditability](./Glossary-Standard-Terms#auditability.md)
 
 ### Security Mechanisms
 
@@ -55,10 +55,10 @@ _TODO: Answer the questions below to help you design needed security features. S
 - ::Users can only connect to the server from specific ranges of
   IP-address (e.g., university-owned computers in networks
   on campus).
-- ::Certain users (e.g., administrators) can only connect from
+- ::Certain users (./e.g., administrators.md) can only connect from
   specific ranges of IP-addresses.
 - ::All network communication takes place over a virtual private
-  network (VPN) that is encrypted and not accessible to outsiders.
+  network (./VPN.md) that is encrypted and not accessible to outsiders.
 - ::All network communication takes place over a LAN that does not
   have any connections to the Internet.
 
@@ -99,14 +99,14 @@ _TODO: Answer the questions below to help you design needed security features. S
   - ::Guest: Visitor to the site is not logged in, can post messages anonymously
   - ::RegisteredUser: User is logged in, has permissions for X, Y, and Z
   - ::Administrator: Permission to change anything, even on behalf of other regular users
-- ::Each action (information display or change) requires that the
+- ::Each action (./information display or change.md) requires that the
   user has a role with proper permissions
 - ::Compromised or abused accounts can be quickly disabled by administrators.
 - ::Administrators can review user permissions
 - ::Administrators can audit all accesses and changes
-- ::All communications with the user are encrypted (e.g., SSL)
+- ::All communications with the user are encrypted (./e.g., SSL.md)
 - ::Some communications with the user (e.g., the username
-  and password) are encrypted (e.g., SSL)
+  and password) are encrypted (./e.g., SSL.md)
 - ::Sessions are tied to a particular client IP-address so that
   stolen cookies cannot be used.
 - ::Session cookies are long random strings that cannot be guessed.
@@ -115,10 +115,10 @@ _TODO: Answer the questions below to help you design needed security features. S
   where it can still be reviewed by administrators.
 - ::Sensitive data, such as credit card numbers, are processed but
   not retained in any database or file
-- ::The data access layer will be responsible for preventing SQL injection attacks (i.e., hackers attempting to enter SQL statements through application UI fields).
+- ::The data access layer will be responsible for preventing SQL injection attacks (./i.e., hackers attempting to enter SQL statements through application UI fields.md).
 - ::The data access layer will allow read-only connections, which will be used for most requests, as well as write connections for requests that update the database.
-- ::The HTML generation layer will be responsible for preventing cross-site-scripting (XSS) attacks.
-- ::The application will prevent Cross-Site Request Forgery (CSRF) attacks. It will do this by performing updates to the database only after a POST, and checking that the referring page was served by the system for every POST. Browsers that do not report HTTP-Referrer will not be supported.
+- ::The HTML generation layer will be responsible for preventing cross-site-scripting (./XSS.md) attacks.
+- ::The application will prevent Cross-Site Request Forgery (./CSRF.md) attacks. It will do this by performing updates to the database only after a POST, and checking that the referring page was served by the system for every POST. Browsers that do not report HTTP-Referrer will not be supported.
 
 ### Security Checklist
 
@@ -142,4 +142,4 @@ _TODO: Answer the questions below to help you design needed security features. S
 
 ::Yes, everyone understands. Feedback is welcome.
 
-::No, this is a risk that is noted in the [Risk Management](Project-Plan#Risk-Management) section.
+::No, this is a risk that is noted in the [Risk Management](./Project-Plan#Risk-Management.md) section.

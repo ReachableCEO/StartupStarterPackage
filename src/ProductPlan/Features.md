@@ -9,10 +9,10 @@
 
 ##### Related Documents
 
-- [SRS](SRS) > [Feature Set](Feature-Set) > Features
-- [Feature format](Feature-Format)
-- [Project proposal](Proposal) > [User needs](User-Needs)
-- [SRS](SRS) > [Use case suite](Use-Case-Suite)
+- [SRS](./SRS.md) > [Feature Set](./Feature-Set.md) > Features
+- [Feature format](./Feature-Format.md)
+- [Project proposal](./Proposal.md) > [User needs](./User-Needs.md)
+- [SRS](./SRS.md) > [Use case suite](./Use-Case-Suite.md)
 - ::LINKS TO RELEVANT STANDARDS
 - ::LINKS TO OTHER DOCUMENTS
 
@@ -20,7 +20,7 @@
 
 **Process impact:** This is a set of detailed feature descriptions.
 
-_TODO: For each feature listed in the [feature set](Feature-Set),
+_TODO: For each feature listed in the [feature set](./Feature-Set.md),
 give a detailed description of the feature here. Describe each feature
 in enough detail that it could be implemented by any member of the
 development team (not only someone who already informally knows what to
@@ -48,9 +48,9 @@ Effort: ::Days
 
 Risk: ::Safe
 
-Functional area(s): ::Administration
+Functional area(./s.md): ::Administration
 
-Use case(s): ::[UC-00](Use-Cases#UC-00) [UC-11](Use-Cases#UC-11)
+Use case(./s.md): ::[UC-00](./Use-Cases#UC-00.md) [UC-11](./Use-Cases#UC-11.md)
 
 Description:
 
@@ -75,20 +75,20 @@ Effort: ::Days
 
 Risk: ::Safe
 
-Functional area(s): ::Administration
+Functional area(./s.md): ::Administration
 
-Use case(s): ::[UC-01](Use-Cases#UC-01)
+Use case(./s.md): ::[UC-01](./Use-Cases#UC-01.md)
 
 Description:
 :: Visitors can come to the site and register themselves. They must provide the following information:
 
 - ::username
-- ::email address (twice to catch typos)
+- ::email address (./twice to catch typos.md)
 - ::real name
 
 Precise Details:
 
-- ::username must be unique (not equal to any other existing user name)
+- ::username must be unique (./not equal to any other existing user name.md)
 - ::username must be of the form ~~~[a-zA-Z0-9]{2,16}~~~ and is not case sensitive
 - ::email address must be of the form ~~~[-a-zA-Z0-9_.]{2,16}@[-a-zA-Z0-9_.]{6,64}~~~
 - ::both entries of the email address must match
@@ -111,9 +111,9 @@ Effort: ::Months | Weeks | Days | Hours
 
 Risk: ::Dangerous | 3-Risks | 2-Risks | 1-Risk | Safe
 
-Functional area(s): ::WORD, WORD, WORD
+Functional area(./s.md): ::WORD, WORD, WORD
 
-Use case(s): ::[UC-01](Use-Cases#UC-01)
+Use case(./s.md): ::[UC-01](./Use-Cases#UC-01.md)
 
 Description:
 :: 1-4 PARAGRAPHS. USE BULLETS OR TABLES TO ORGANIZE INFORMATION. LINK TO WORKSHEETS OR ADDITIONAL INFORMATION.
@@ -138,9 +138,9 @@ Effort: ::Months | Weeks | Days | Hours
 
 Risk: ::Dangerous | 3-Risks | 2-Risks | 1-Risk | Safe
 
-Functional area(s): ::WORD, WORD, WORD
+Functional area(./s.md): ::WORD, WORD, WORD
 
-Use case(s): ::[UC-01](Use-Cases#UC-01)
+Use case(./s.md): ::[UC-01](./Use-Cases#UC-01.md)
 
 Description:
 
@@ -166,9 +166,9 @@ Effort: ::Months | Weeks | Days | Hours
 
 Risk: ::Dangerous | 3-Risks | 2-Risks | 1-Risk | Safe
 
-Functional area(s): ::WORD, WORD, WORD
+Functional area(./s.md): ::WORD, WORD, WORD
 
-Use case(s): ::[UC-01](Use-Cases#UC-01)
+Use case(./s.md): ::[UC-01](./Use-Cases#UC-01.md)
 
 Description:
 
@@ -194,9 +194,9 @@ Effort: ::Months | Weeks | Days | Hours
 
 Risk: ::Dangerous | 3-Risks | 2-Risks | 1-Risk | Safe
 
-Functional area(s): ::WORD, WORD, WORD
+Functional area(./s.md): ::WORD, WORD, WORD
 
-Use case(s): ::[UC-01](Use-Cases#UC-01)
+Use case(./s.md): ::[UC-01](./Use-Cases#UC-01.md)
 
 Description:
 
@@ -222,9 +222,9 @@ Effort: ::Months | Weeks | Days | Hours
 
 Risk: ::Dangerous | 3-Risks | 2-Risks | 1-Risk | Safe
 
-Functional area(s): ::WORD, WORD, WORD
+Functional area(./s.md): ::WORD, WORD, WORD
 
-Use case(s): ::[UC-01](Use-Cases#UC-01)
+Use case(./s.md): ::[UC-01](./Use-Cases#UC-01.md)
 
 Description:
 
@@ -250,9 +250,9 @@ Effort: ::Months | Weeks | Days | Hours
 
 Risk: ::Dangerous | 3-Risks | 2-Risks | 1-Risk | Safe
 
-Functional area(s): ::WORD, WORD, WORD
+Functional area(./s.md): ::WORD, WORD, WORD
 
-Use case(s): ::[UC-01](Use-Cases#UC-01)
+Use case(./s.md): ::[UC-01](./Use-Cases#UC-01.md)
 
 Description:
 
@@ -278,9 +278,9 @@ Effort: ::Months | Weeks | Days | Hours
 
 Risk: ::Dangerous | 3-Risks | 2-Risks | 1-Risk | Safe
 
-Functional area(s): ::WORD, WORD, WORD
+Functional area(./s.md): ::WORD, WORD, WORD
 
-Use case(s): ::[UC-01](Use-Cases#UC-01)
+Use case(./s.md): ::[UC-01](./Use-Cases#UC-01.md)
 
 Description:
 
@@ -306,9 +306,9 @@ Effort: ::Months | Weeks | Days | Hours
 
 Risk: ::Dangerous | 3-Risks | 2-Risks | 1-Risk | Safe
 
-Functional area(s): ::WORD, WORD, WORD
+Functional area(./s.md): ::WORD, WORD, WORD
 
-Use case(s): ::[UC-01](Use-Cases#UC-01)
+Use case(./s.md): ::[UC-01](./Use-Cases#UC-01.md)
 
 Description:
 
@@ -334,9 +334,9 @@ Effort: ::Months | Weeks | Days | Hours
 
 Risk: ::Dangerous | 3-Risks | 2-Risks | 1-Risk | Safe
 
-Functional area(s): ::WORD, WORD, WORD
+Functional area(./s.md): ::WORD, WORD, WORD
 
-Use case(s): ::[UC-01](Use-Cases#UC-01)
+Use case(./s.md): ::[UC-01](./Use-Cases#UC-01.md)
 
 Description:
 
@@ -362,9 +362,9 @@ Effort: ::Months | Weeks | Days | Hours
 
 Risk: ::Dangerous | 3-Risks | 2-Risks | 1-Risk | Safe
 
-Functional area(s): ::WORD, WORD, WORD
+Functional area(./s.md): ::WORD, WORD, WORD
 
-Use case(s): ::[UC-01](Use-Cases#UC-01)
+Use case(./s.md): ::[UC-01](./Use-Cases#UC-01.md)
 
 Description:
 
@@ -390,9 +390,9 @@ Effort: ::Months | Weeks | Days | Hours
 
 Risk: ::Dangerous | 3-Risks | 2-Risks | 1-Risk | Safe
 
-Functional area(s): ::WORD, WORD, WORD
+Functional area(./s.md): ::WORD, WORD, WORD
 
-Use case(s): ::[UC-01](Use-Cases#UC-01)
+Use case(./s.md): ::[UC-01](./Use-Cases#UC-01.md)
 
 Description:
 
@@ -418,9 +418,9 @@ Effort: ::Months | Weeks | Days | Hours
 
 Risk: ::Dangerous | 3-Risks | 2-Risks | 1-Risk | Safe
 
-Functional area(s): ::WORD, WORD, WORD
+Functional area(./s.md): ::WORD, WORD, WORD
 
-Use case(s): ::[UC-01](Use-Cases#UC-01)
+Use case(./s.md): ::[UC-01](./Use-Cases#UC-01.md)
 
 Description:
 
@@ -446,9 +446,9 @@ Effort: ::Months | Weeks | Days | Hours
 
 Risk: ::Dangerous | 3-Risks | 2-Risks | 1-Risk | Safe
 
-Functional area(s): ::WORD, WORD, WORD
+Functional area(./s.md): ::WORD, WORD, WORD
 
-Use case(s): ::[UC-01](Use-Cases#UC-01)
+Use case(./s.md): ::[UC-01](./Use-Cases#UC-01.md)
 
 Description:
 
@@ -474,9 +474,9 @@ Effort: ::Months | Weeks | Days | Hours
 
 Risk: ::Dangerous | 3-Risks | 2-Risks | 1-Risk | Safe
 
-Functional area(s): ::WORD, WORD, WORD
+Functional area(./s.md): ::WORD, WORD, WORD
 
-Use case(s): ::[UC-01](Use-Cases#UC-01)
+Use case(./s.md): ::[UC-01](./Use-Cases#UC-01.md)
 
 Description:
 

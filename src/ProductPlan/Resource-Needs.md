@@ -2,7 +2,7 @@
 
 ##### Project
 
-::[PROJECT-NAME](Home)
+::[PROJECT-NAME](./Home.md)
 
 ##### Internal Release Number
 
@@ -14,11 +14,11 @@
 
 ##### Related Documents
 
-- [Project proposal](Proposal)
-- [Project plan](Project-Plan)
-- [QA plan](QA-Plan)
-- [Software development methodology](SDM)
-- [Glossary](Glossary)
+- [Project proposal](./Proposal.md)
+- [Project plan](./Project-Plan.md)
+- [QA plan](./QA-Plan.md)
+- [Software development methodology](./SDM.md)
+- [Glossary](./Glossary.md)
 
 ---
 
@@ -91,7 +91,7 @@ otherwise be missed. It does not help with the actual estimated number
 of hours needed. Those estimates should be based on the project plan.
 
 _TODO: Answer the questions below. If multiple sample answers are
-provided, [chip away](Glossary-Standard-Terms#chipping-away) the ones that do
+provided, [chip away](./Glossary-Standard-Terms#chipping-away.md) the ones that do
 not apply. Edit any provided answers as needed. Use this exercise to
 help you fill in the tables above._
 
@@ -297,4 +297,4 @@ is likely to need the same resources.
 :: Yes, everyone understands. Feedback is welcome.
 
 :: No, this is a risk that is noted in the [Risk
-Management](Project-Plan#Risk-Management) section.
+Management](./Project-Plan#Risk-Management.md) section.

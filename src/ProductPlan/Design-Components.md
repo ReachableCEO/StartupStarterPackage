@@ -9,7 +9,7 @@
 
 ##### Related Documents
 
-- [Design](Design) > [Architecture](Design-Architecture) > Design Components
+- [Design](./Design.md) > [Architecture](./Design-Architecture.md) > Design Components
 - ::LINKS TO RELEVANT STANDARDS
 - ::LINKS TO OTHER DOCUMENTS
 
@@ -21,9 +21,9 @@ concerns that affect deployment options, and concurrency. Note key
 aspects of each interface, but avoid duplicating details of interfaces
 that are specified in the UML class diagrams or other documents._
 
-Each interface can be an API (application program interface), standard
-protocol (e.g., HTTP), config files, input data file format, or
-interactive user interface (e.g., command-line or GUI). One component
+Each interface can be an API (./application program interface.md), standard
+protocol (./e.g., HTTP.md), config files, input data file format, or
+interactive user interface (./e.g., command-line or GUI.md). One component
 may have multiple interfaces: e.g., a server may handle requests in a
 standard protocol, but also have a config file, command-line options, an
 administrative control panel GUI, and a performance monitoring API.

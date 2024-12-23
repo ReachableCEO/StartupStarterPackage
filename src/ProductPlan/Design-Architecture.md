@@ -1,7 +1,7 @@
 <!-- markdownlint-disable-next-line first-line-h1 -->
 ##### Project
 
-::PROJECT-NAME(Home)
+::PROJECT-NAME(./Home.md)
 
 ##### Internal Release Number
 
@@ -9,9 +9,9 @@
 
 ##### Related Documents
 
-- [Design](Design) > Design Architecture
-- [Software Requirements Specification](SRS)
-- [Glossary](Glossary)
+- [Design](./Design.md) > Design Architecture
+- [Software Requirements Specification](./SRS.md)
+- [Glossary](./Glossary.md)
 - ::LINKS TO RELEVANT STANDARDS
 - ::LINKS TO OTHER DOCUMENTS
 
@@ -28,7 +28,7 @@ architecture. Some example text is provided._
 
 #### What software architecture style is being used?
 
-- ::Single-process desktop application (with plug-in extension modules).
+- ::Single-process desktop application (./with plug-in extension modules.md).
 - ::Client-server with a custom thick-clients and server.
 - ::2-tier web application: webserver/app-server, database.
 - ::3-tier web application: webserver, app-server, database.
@@ -40,57 +40,57 @@ architecture. Some example text is provided._
 
 #### What are the ranked goals of this architecture?
 
-1. ::[Ease of integration](Glossary-Standard-Terms#ease_of_integration)
-2. ::[Extensibility](Glossary-Standard-Terms#extensibility)
-3. ::[Capacity matching](Glossary-Standard-Terms#capacity_matching)
+1. ::[Ease of integration](./Glossary-Standard-Terms#ease_of_integration.md)
+2. ::[Extensibility](./Glossary-Standard-Terms#extensibility.md)
+3. ::[Capacity matching](./Glossary-Standard-Terms#capacity_matching.md)
 
 ### Components
 
 #### What are the components of this system?
 
 ::The components of this system are clearly defined in this [UML Model
-with Component Diagram](LINK-TO-MODEL).
+with Component Diagram](./LINK-TO-MODEL.md).
 
 ::The components of this system are listed below by type:
 
 - ::Presentation/UI Components
-  - ::[C-00: COMPONENT-NAME](Design-Components#c-00)
+  - ::[C-00: COMPONENT-NAME](./Design-Components#c-00.md)
 - ::Application Logic Components
-  - ::[C-10: COMPONENT-NAME](Design-Components#c-10)
+  - ::[C-10: COMPONENT-NAME](./Design-Components#c-10.md)
 - ::Data Storage Components
-  - ::[C-20: COMPONENT-NAME](Design-Components#c-20)
+  - ::[C-20: COMPONENT-NAME](./Design-Components#c-20.md)
 
 ### Deployment
 
 #### How will the components be deployed to processes and machines?
 
 ::The deployment of components to processes and machines is clearly
-defined in this [UML Model with Deployment Diagram](LINK-TO-MODEL).
+defined in this [UML Model with Deployment Diagram](./LINK-TO-MODEL.md).
 
 ::The deployment of components to processes and machines is clearly
 defined below:
 
 - ::All-in-one server
   - ::Tomcat process
-    - ::[C-00: Tomcat web server](Design-Components#c-00)
+    - ::[C-00: Tomcat web server](./Design-Components#c-00.md)
     - ::[C-10: PROJECT-NAME
-      application](Design-Components#c-10)
+      application](./Design-Components#c-10.md)
   - ::Database process
-    - ::[C-20: COMPONENT-NAME](Design-Components#c-30)
+    - ::[C-20: COMPONENT-NAME](./Design-Components#c-30.md)
 
 ::The deployment of components to processes and machines is clearly
 defined below:
 
 - ::Load-balanced front-end servers
-  - ::[C-01: COMPONENT-NAME](Design-Components#c-00)
+  - ::[C-01: COMPONENT-NAME](./Design-Components#c-00.md)
 - ::Back-end server
   - ::JVM process
-    - ::[C-00: COMPONENT-NAME](Design-Components#c-00)
-    - ::[C-10: COMPONENT-NAME](Design-Components#c-10)
-    - ::[C-11: PLUG-IN COMPONENT-NAME](Design-Components#c-11)
-    - ::[C-12: PLUG-IN COMPONENT-NAME](Design-Components#c-12)
+    - ::[C-00: COMPONENT-NAME](./Design-Components#c-00.md)
+    - ::[C-10: COMPONENT-NAME](./Design-Components#c-10.md)
+    - ::[C-11: PLUG-IN COMPONENT-NAME](./Design-Components#c-11.md)
+    - ::[C-12: PLUG-IN COMPONENT-NAME](./Design-Components#c-12.md)
   - Database process
-    - ::[C-20: COMPONENT-NAME](Design-Components#c-30)
+    - ::[C-20: COMPONENT-NAME](./Design-Components#c-30.md)
 
 #### What aspects/resources of their environment are shared?
 
@@ -161,9 +161,9 @@ fail-over._
 The following sequence diagrams give step-by-step descriptions of how
 components communicate during some important usage scenarios:
 
-- ::[System startup](LINK-TO-DIAGRAM)
-- ::[System shutdown](LINK-TO-DIAGRAM)
-- ::[SCENARIO NAME](LINK-TO-DIAGRAM)
+- ::[System startup](./LINK-TO-DIAGRAM.md)
+- ::[System shutdown](./LINK-TO-DIAGRAM.md)
+- ::[SCENARIO NAME](./LINK-TO-DIAGRAM.md)
 
 ### Architecture Checklist
 
@@ -194,4 +194,4 @@ competition for resources.
 
 ::Yes, everyone understands. Feedback is welcome.
 
-::No, this is a risk that is noted in the [Risk Management](Project-Plan#Risk-Management) section.
+::No, this is a risk that is noted in the [Risk Management](./Project-Plan#Risk-Management.md) section.

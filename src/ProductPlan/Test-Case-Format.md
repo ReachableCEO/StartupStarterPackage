@@ -2,7 +2,7 @@
 
 ##### Related Documents
 
-- [QA Plan](QA-Plan) > [Test Suite](Test-Suite) > Test Case Format
+- [QA Plan](./QA-Plan.md) > [Test Suite](./Test-Suite.md) > Test Case Format
 
 ---
 
@@ -71,7 +71,7 @@ different users.
 
 ::Visit a page or screen. For web applications, LOCATION may be
 a hyperlink. The location should be a well-known starting point
-(e.g., the Login screen), drilling down to specific pages should be
+(./e.g., the Login screen.md), drilling down to specific pages should be
 part of the test.
 
 #### ::enter FIELD-NAME \[as VALUE\] \[in SCREEN-LOCATION\]

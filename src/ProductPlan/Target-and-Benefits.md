@@ -2,7 +2,7 @@
 
 ##### Project
 
-::[PROJECT-NAME](Home)
+::[PROJECT-NAME](./Home.md)
 
 ##### Internal Release Number
 
@@ -10,9 +10,9 @@
 
 ##### Related Documents
 
-- [Proposal](Proposal) > Target Audience and Benefits
-- [Project proposal](Proposal) > [User needs](User-Needs)
-- [Glossary](Glossary)
+- [Proposal](./Proposal.md) > Target Audience and Benefits
+- [Project proposal](./Proposal.md) > [User needs](./User-Needs.md)
+- [Glossary](./Glossary.md)
 
 ---
 
@@ -47,20 +47,20 @@ about the potential for viruses.
 
 #### What is the size of the total available market? Cite references for facts?
 
-::10,000 users \[[magazine article](#tbd)\].
+::10,000 users \[[magazine article](./#tbd.md)\].
 
-::$10M, growing annually at 4% \[[industry analyst](#tbd)\].
+::$10M, growing annually at 4% \[[industry analyst](./#tbd.md)\].
 
 #### What are some other customer options or leading products that address the same needs?
 
-- ::[Competitor 1](#tbd)
-- ::[Competitor 2](#tbd)
-- ::[Do-it-yourself solutions](#tbd)
+- ::[Competitor 1](./#tbd.md)
+- ::[Competitor 2](./#tbd.md)
+- ::[Do-it-yourself solutions](./#tbd.md)
 
 #### Are there any known customers for this product?
 
-- ::[MegaCorp, corporate I.T. department](#tbd)
-- ::[Worldwide Global Corporation](#tbd)
+- ::[MegaCorp, corporate I.T. department](./#tbd.md)
+- ::[Worldwide Global Corporation](./#tbd.md)
 - ::Our own in-house application software developers and server
   operations team
 - ::Our own marketing, sales, and customer support departments
@@ -72,10 +72,10 @@ identify the type of customer or user that will benefit. Each benefit
 should be in real-world terms, not involving just this product itself.
 You may want to highlight benefits that are not offered by competing
 products. Benefits to the development organization should be listed in
-[Risks and Rewards](Project-Plan#risk-management)._
+[Risks and Rewards](./Project-Plan#risk-management.md)._
 
 _TIP: If you can rank benefits by value, use numbered lists (the HTML
-&lt;ol> tag), otherwise use bullet lists (the HTML &lt;ul> tag)._
+&lt;ol> tag), otherwise use bullet lists (./the HTML &lt;ul> tag.md)._
 
 - ::Increases play-value
   - ::Many players enjoy games more when they play as a team.

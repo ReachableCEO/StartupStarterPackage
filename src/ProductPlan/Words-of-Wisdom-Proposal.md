@@ -32,7 +32,7 @@ Explain why a better product would matter to customers or project stakeholders. 
 
 ### How will this product be better than previous approaches?
 
-Describe how this product will actually be better than the current alternatives. This may be due to better functionality ("defining features" are covered below), or other aspects of the product that make it easier to buy, install, or use.
+Describe how this product will actually be better than the current alternatives. This may be due to better functionality (./"defining features" are covered below.md), or other aspects of the product that make it easier to buy, install, or use.
 
 ### Where is there more information on this problem?
 

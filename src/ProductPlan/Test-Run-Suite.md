@@ -2,7 +2,7 @@
 
 ##### Project
 
-::[PROJECT-NAME](Home)
+::[PROJECT-NAME](./Home.md)
 
 ##### Internal Release Number
 
@@ -10,8 +10,8 @@
 
 ##### Related Documents
 
-- [QA Plan](QA-Plan) > Test Run Suite
-- [Test suite](Test-Suite)
+- [QA Plan](./QA-Plan.md) > Test Run Suite
+- [Test suite](./Test-Suite.md)
 - ::LINKS TO RELEVANT STANDARDS
 - ::LINKS TO OTHER DOCUMENTS
 
@@ -26,14 +26,14 @@ assess risk, and focus ongoing testing efforts.
 
 _TODO:_
 
-- _Review the [target audience](Target-and-Benefits),
-  [environmental requirements](SRS#environmental), and [possible
-  deployments](Design-Architecture#deployment) to understand the
+- _Review the [target audience](./Target-and-Benefits.md),
+  [environmental requirements](./SRS#environmental.md), and [possible
+  deployments](./Design-Architecture#deployment.md) to understand the
   set of possible system configurations that could be tested._
 - _Use a table or list to describe that set of possible configurations.
   Mark each possibility with Pending, N/A, or Waived._
 - _Track each test run with an issue in the issue tracker or an item in
-  the [test-runs](Test-Runs) document._
+  the [test-runs](./Test-Runs.md) document._
 - _Periodically review the set of possible system configurations to
   identify any additional needed test runs._
 
@@ -41,9 +41,9 @@ _TODO:_
 
 | OS \ Browser | IE                          | Firefox                     | Safari                      | Chrome    | other |
 | ------------ | --------------------------- | --------------------------- | --------------------------- | --------- | ----- |
-| ::Windows    | ::[Passed](Test-Runs#TR-01) | ::[Passed](Test-Runs#TR-02) | ::N/A                       | ::Pending | ::N/A |
-| ::Linux      | ::N/A                       | ::[Passed](Test-Runs#TR-03) | ::Pending                   | ::Pending | ::N/A |
-| ::Mac        | ::[FAILED](Test-Runs#TR-10) | ::Pending                   | ::[Passed](Test-Runs#TR-11) | ::Pending | ::N/A |
+| ::Windows    | ::[Passed](./Test-Runs#TR-01.md) | ::[Passed](./Test-Runs#TR-02.md) | ::N/A                       | ::Pending | ::N/A |
+| ::Linux      | ::N/A                       | ::[Passed](./Test-Runs#TR-03.md) | ::Pending                   | ::Pending | ::N/A |
+| ::Mac        | ::[FAILED](./Test-Runs#TR-10.md) | ::Pending                   | ::[Passed](./Test-Runs#TR-11.md) | ::Pending | ::N/A |
 | ::iOS        | ::N/A                       | ::N/A                       | ::Pending                   | ::N/A     | ::N/A |
 | ::Android    | ::N/A                       | ::N/A                       | ::Pending                   | ::Pending | ::N/A |
 
@@ -53,10 +53,10 @@ _TIP: Use this outline to guide the testing of internationalized
 applications. Each locale indicates a native language as well as formats
 for presenting money, dates, times, etc._
 
-- ::English US: [Passed](Test-Runs#TR-00)
-- ::English UK: [Passed](Test-Runs#TR-01)
-- ::English CA: [Passed](Test-Runs#TR-02)
-- ::Japanese: [Passed](Test-Runs#TR-10)
+- ::English US: [Passed](./Test-Runs#TR-00.md)
+- ::English UK: [Passed](./Test-Runs#TR-01.md)
+- ::English CA: [Passed](./Test-Runs#TR-02.md)
+- ::Japanese: [Passed](./Test-Runs#TR-10.md)
 - ::Spanish: Pending
 - ::Russian: Pending
 - ::German: Pending
@@ -73,12 +73,12 @@ might depend on memory or other hardware specs._
 - ::PCs
   - ::IDE drive: Pending
   - ::EIDE drive: Waived because we only use IDE features
-  - ::ATA drive: [Passed](Test-Runs#TR-00)
-  - ::SCSI drive: [Passed](Test-Runs#TR-01)
-  - ::SATA drive: [Passed](Test-Runs#TR-02)
-  - ::USB drive: [FAILED](Test-Runs#TR-03)
+  - ::ATA drive: [Passed](./Test-Runs#TR-00.md)
+  - ::SCSI drive: [Passed](./Test-Runs#TR-01.md)
+  - ::SATA drive: [Passed](./Test-Runs#TR-02.md)
+  - ::USB drive: [FAILED](./Test-Runs#TR-03.md)
 - ::Macs
-  - ::EIDE drive: [Passed](Test-Runs#TR-10)
-  - ::SCSI drive: [Passed](Test-Runs#TR-11)
+  - ::EIDE drive: [Passed](./Test-Runs#TR-10.md)
+  - ::SCSI drive: [Passed](./Test-Runs#TR-11.md)
   - ::Firewire drive: Pending
-  - ::USB drive: [FAILED](Test-Runs#TR-12)
+  - ::USB drive: [FAILED](./Test-Runs#TR-12.md)

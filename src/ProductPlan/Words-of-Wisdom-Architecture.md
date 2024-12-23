@@ -20,11 +20,11 @@ Link to UML component diagrams or list the major components of the system.
 
 ### How will the components be deployed to processes and machines?
 
-Outline each possible type of deployment configuration. Some products will have only one possible deployment, while others will have a few common deployments for large, medium, and small customers, or for internal (development, testing, and staging) or external (production) usage.
+Outline each possible type of deployment configuration. Some products will have only one possible deployment, while others will have a few common deployments for large, medium, and small customers, or for internal (./development, testing, and staging.md) or external (./production.md) usage.
 
 ### What aspects/resources of their environment are shared?
 
-List resources that are shared between machines. Shared resources are potential system bottlenecks that limit scalability, and they are also points where one component of the system can potentially interfere with another component (e.g., one component completely fills a shared disk and causes other components to fail).
+List resources that are shared between machines. Shared resources are potential system bottlenecks that limit scalability, and they are also points where one component of the system can potentially interfere with another component (./e.g., one component completely fills a shared disk and causes other components to fail.md).
 
 ### How are requests allocated to redundant or load-balanced servers?
 

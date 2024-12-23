@@ -16,35 +16,35 @@ Feature specifications are a very important part of the SRS. They are written in
 
 ### What are the usability requirements?
 
-List any specific usability requirements here. Refer to existing standards documents and write new requirements as "shall statements" (sentences that use the word "shall").
+List any specific usability requirements here. Refer to existing standards documents and write new requirements as "shall statements" (./sentences that use the word "shall".md).
 
 ### What are the reliability and up-time requirements?
 
-List any specific reliability and up-time requirements here. Refer to existing standards documents and write new requirements as "shall statements" (sentences that use the word "shall").
+List any specific reliability and up-time requirements here. Refer to existing standards documents and write new requirements as "shall statements" (./sentences that use the word "shall".md).
 
 ### What are the safety requirements?
 
-List any specific safety requirements here. Refer to existing standards documents and write new requirements as "shall statements" (sentences that use the word "shall").
+List any specific safety requirements here. Refer to existing standards documents and write new requirements as "shall statements" (./sentences that use the word "shall".md).
 
 ### What are the security requirements?
 
-List any specific security requirements here. Refer to existing standards documents and write new requirements as "shall statements" (sentences that use the word "shall").
+List any specific security requirements here. Refer to existing standards documents and write new requirements as "shall statements" (./sentences that use the word "shall".md).
 
 ### What are the performance and scalability requirements requirements?
 
-List any specific performance requirements here. Refer to existing standards documents and write new requirements as "shall statements" (sentences that use the word "shall").
+List any specific performance requirements here. Refer to existing standards documents and write new requirements as "shall statements" (./sentences that use the word "shall".md).
 
 ### What are the maintainability and upgradability requirements?
 
-List any specific maintainability and upgradability requirements here. Refer to existing standards documents and write new requirements as "shall statements" (sentences that use the word "shall").
+List any specific maintainability and upgradability requirements here. Refer to existing standards documents and write new requirements as "shall statements" (./sentences that use the word "shall".md).
 
 ### What are the supportability and operability requirements?
 
-List any specific supportability and operability requirements here. Refer to existing standards documents and write new requirements as "shall statements" (sentences that use the word "shall").
+List any specific supportability and operability requirements here. Refer to existing standards documents and write new requirements as "shall statements" (./sentences that use the word "shall".md).
 
 ### What are the business lifecycle requirements?
 
-List any specific business lifecycle requirements here. Refer to existing standards documents and write new requirements as "shall statements" (sentences that use the word "shall").
+List any specific business lifecycle requirements here. Refer to existing standards documents and write new requirements as "shall statements" (./sentences that use the word "shall".md).
 
 ### What are the system hardware requirements?
 
@@ -60,4 +60,4 @@ List any specific API requirements here. Refer to existing standards documents. 
 
 ### What are the data import and export requirements?
 
-List any specific import and export requirements here. Refer to existing standards documents and write new requirements as "shall statements" (sentences that use the word "shall").
+List any specific import and export requirements here. Refer to existing standards documents and write new requirements as "shall statements" (./sentences that use the word "shall".md).

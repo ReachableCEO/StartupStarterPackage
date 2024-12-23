@@ -1,7 +1,7 @@
 <!-- markdownlint-disable-next-line first-line-h1 -->
 ##### Project
 
-::[PROJECT-NAME](Home)
+::[PROJECT-NAME](./Home.md)
 
 ##### Internal Release Number
 
@@ -9,8 +9,8 @@
 
 ##### Related Documents
 
-- [Project proposal](Proposal) > [Target audience and benefits](Target-and-Benefits)
-- [SRS](SRS) > [Use case suite](Use-Case-Suite)
+- [Project proposal](./Proposal.md) > [Target audience and benefits](./Target-and-Benefits.md)
+- [SRS](./SRS.md) > [Use case suite](./Use-Case-Suite.md)
 - ::LINKS TO RELEVANT STANDARDS
 - ::LINKS TO OTHER DOCUMENTS
 
@@ -93,7 +93,7 @@ disagree with any points?*
 - ::KEY POINT
   - ::DEMO STEP
   - ::DEMO STEP
-- ::KEY POINT (if there is time)
+- ::KEY POINT (./if there is time.md)
   - ::DEMO STEP
   - ::DEMO STEP
 

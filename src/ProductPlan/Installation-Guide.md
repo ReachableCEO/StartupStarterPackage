@@ -19,7 +19,7 @@ information._
 ##### Customer Support
 
 :: For more information or support, please visit our
-[website](::http://www.COMPANY.com/products/PRODUCT-NAME/) or
+[website](./::http://www.COMPANY.com/products/PRODUCT-NAME/.md) or
 email us at <::support@COMPANY.com>
 
 ---
@@ -31,7 +31,7 @@ PRODUCT-NAME.
 
 ### Minimal System Requirements
 
-::System requirements are described in the [release notes](Release-Notes).
+::System requirements are described in the [release notes](./Release-Notes.md).
 
 ### Installation
 
@@ -47,10 +47,10 @@ needed development and bugging tools, e.g., Ant and JUnit._
 ::Before you can install this product, you must install the following
 packages:
 
-- ::[Java SDK](http://java.sun.com/)
-- ::[Apache Tomcat](http://jakarta.apache.org/)
-- ::[MySQL database](http://mysql.com/)
-- ::[OTHER PACKAGES](http://)
+- ::[Java SDK](./http://java.sun.com/.md)
+- ::[Apache Tomcat](./http://jakarta.apache.org/.md)
+- ::[MySQL database](./http://mysql.com/.md)
+- ::[OTHER PACKAGES](./http://.md)
 
 #### How do I install PRODUCT-NAME?
 
@@ -72,7 +72,7 @@ packages:
 
 #### What if I encounter problems?
 
-::Please see the troubleshooting section in the [FAQ](FAQ).
+::Please see the troubleshooting section in the [FAQ](./FAQ.md).
 
 ### Getting Started
 

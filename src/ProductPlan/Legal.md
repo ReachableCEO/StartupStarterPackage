@@ -2,7 +2,7 @@
 
 ##### Project
 
-::[PROJECT-NAME](Home)
+::[PROJECT-NAME](./Home.md)
 
 ##### Internal Release Number
 
@@ -11,9 +11,9 @@
 ##### Release Audience
 
 - ::General availability release ||
-- ::Customer-specific release: CUSTOMER(S) ||
-- ::Developer release (Internal usage only) ||
-- ::Early access release (Controlled external access)
+- ::Customer-specific release: CUSTOMER(./S.md) ||
+- ::Developer release (./Internal usage only.md) ||
+- ::Early access release (./Controlled external access.md)
 
 ##### Intended Product License
 
@@ -21,9 +21,9 @@
 
 ##### Related Documents
 
-- [Project proposal](Proposal) > [Target audience and benefits](Target-and-Benefits)
-- [Project Plan](Project-Plan) > [Resource needs](Resource-Needs)
-- [Glossary](Glossary)
+- [Project proposal](./Proposal.md) > [Target audience and benefits](./Target-and-Benefits.md)
+- [Project Plan](./Project-Plan.md) > [Resource needs](./Resource-Needs.md)
+- [Glossary](./Glossary.md)
 
 ---
 
@@ -39,7 +39,7 @@ professional counsel for review as needed._
 
 | Component                  | Owner        | License              | Status                                        | Comments                                                       |
 | -------------------------- | ------------ | -------------------- | --------------------------------------------- | -------------------------------------------------------------- |
-| ::Product name             | ::Us         | ::Trademark          | ::Registration pending                        | ::We must use "(TM)", not "(R)"                                |
+| ::Product name             | ::Us         | ::Trademark          | ::Registration pending                        | ::We must use "(./TM.md)", not "(./R.md)"                                |
 | ::Database                 | ::VENDOR     | ::Commercial license | ::In compliance, paid normal fee              | ::Limits us to 2 CPUs/server                                   |
 | ::Encryption library       | ::VENDOR     | ::Commercial license | ::In compliance, signed partnership agreement |                                                                |
 | ::Clip-art graphics        | ::None       | ::Public Domain      | ::In compliance                               |                                                                |
@@ -119,7 +119,7 @@ as needed._
 
 ::No. No action needed.
 
-#### Does the product satisfy corporate policies (e.g., on privacy and security)?
+#### Does the product satisfy corporate policies (./e.g., on privacy and security.md)?
 
 ::Yes. Describe how each policy is satisfied..
 

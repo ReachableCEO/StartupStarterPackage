@@ -2,11 +2,11 @@
 
 ## Line-by-line Instructions
 
-### Interviewer(s)
+### Interviewer(./s.md)
 
 List the person or people who conducted the interview.
 
-### Interviewee(s)
+### Interviewee(./s.md)
 
 List the person or people who responded during the interview.
 

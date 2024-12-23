@@ -2,7 +2,7 @@
 
 ##### Project
 
-::[PROJECT-NAME](Home)
+::[PROJECT-NAME](./Home.md)
 
 ##### Internal Release Number
 
@@ -10,10 +10,10 @@
 
 ##### Related Documents
 
-- [Software Requirements Specification](SRS)
-- [Release notes](Release-Notes)
-- [FAQ](FAQ)
-- [Glossary](Glossary)
+- [Software Requirements Specification](./SRS.md)
+- [Release notes](./Release-Notes.md)
+- [FAQ](./FAQ.md)
+- [Glossary](./Glossary.md)
 
 ---
 
@@ -47,7 +47,7 @@ specific technology platforms._
 - ::Reusable class framework ||
 - ::Browser Plug-in
 
-#### Programming Language(s)
+#### Programming Language(./s.md)
 
 - ::Java ||
 - ::Perl, Unix shell scripts
@@ -140,11 +140,11 @@ engineers when the system is being run in an ASP production environment._
 
 #### Install
 
-::See the [installation guide](Installation-Guide)
+::See the [installation guide](./Installation-Guide.md)
 
 #### Upgrade
 
-::See the [installation guide](Installation-Guide)
+::See the [installation guide](./Installation-Guide.md)
 
 #### Start Server
 
@@ -205,11 +205,11 @@ Do these implementation notes provide enough information for operations engineer
 - ::Yes, these notes have been reviewed by the operations team and
   requested changes have been incorporated.
 - ::No, these notes only summarize parts of a larger
-  [operations manual](LINK-TO-OPERATIONS-MANUAL).
+  [operations manual](./LINK-TO-OPERATIONS-MANUAL.md).
 - ::No, a member of the development team is available on-call whenever
   the operations team may need help. This is listed in the
-  [Resource Needs](Resource-Needs) document and in the
-  [on-call schedule](LINK-TO-ON-CALL-SCHEDULE).
+  [Resource Needs](./Resource-Needs.md) document and in the
+  [on-call schedule](./LINK-TO-ON-CALL-SCHEDULE.md).
 
 Have these implementation notes been communicated to the operations and development teams and other stakeholders?
 
@@ -217,5 +217,5 @@ Have these implementation notes been communicated to the operations and developm
 - ::Yes, it has been posted to the project website.
 - ::No, some developers or operations engineers are not aware of
   this document. This is a risk that is noted in the
-  [Risk Management](Project-Plan#risk-management) section of the
-  [Project Plan](Project-Plan).
+  [Risk Management](./Project-Plan#risk-management.md) section of the
+  [Project Plan](./Project-Plan.md).

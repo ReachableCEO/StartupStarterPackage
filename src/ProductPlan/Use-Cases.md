@@ -10,9 +10,9 @@
 
 ##### Related Documents
 
-- [SRS](SRS) > [Use Case Suite](Use-Case-Suite) > Use Cases
-- [Project proposal](Proposal) > [User needs](User-Needs), [SRS](SRS) > [Feature set](Feature-Set)
-- [Use case format](Use-Case-Format)
+- [SRS](./SRS.md) > [Use Case Suite](./Use-Case-Suite.md) > Use Cases
+- [Project proposal](./Proposal.md) > [User needs](./User-Needs.md), [SRS](./SRS.md) > [Feature set](./Feature-Set.md)
+- [Use case format](./Use-Case-Format.md)
 - ::LINK TO USE CASE DIAGRAM
 - ::LINKS TO RELEVANT STANDARDS
 - ::LINKS TO OTHER DOCUMENTS
@@ -41,7 +41,7 @@ note it's specific value to replace or add to the default._
 ::User is logged in
 
 _TODO: For each use case listed in the [use case
-suite](Use-Case-Suite), create an HTML anchor and heading with it's
+suite](./Use-Case-Suite.md), create an HTML anchor and heading with it's
 unique ID, then fill in the rows of the table to specify the use case in
 detail._
 
@@ -50,7 +50,7 @@ actually writing the use case in detail. Document the most important use
 cases first and come back to less important ones later._
 
 _TIP: See detailed tips in the
-[guidelines for writing use cases](Use-Case-Format#further-information)._
+[guidelines for writing use cases](./Use-Case-Format#further-information.md)._
 
 ---
 
@@ -111,7 +111,7 @@ _TIP: See detailed tips in the
 
 1. ::visit Login page
 2. ::click to register as new user
-3. ::enter identifying information: username, email, real name, password (twice)
+3. ::enter identifying information: username, email, real name, password (./twice.md)
 4. ::submit form
 5. ::check email
 6. ::reply to confirmation message

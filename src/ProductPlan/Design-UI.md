@@ -10,7 +10,7 @@
 
 ##### Related Documents
 
-- [Design](Design) > User Interface
+- [Design](./Design.md) > User Interface
 - ::LINKS TO RELEVANT STANDARDS
 - ::LINKS TO OTHER DOCUMENTS
 
@@ -28,10 +28,10 @@ text as needed._
 
 #### What are the ranked goals for the user interface of this system?
 
-1. ::[Understandability and learnability](Glossary-Standard-Terms#understandability_and_learnability)
-2. ::[Task support and efficiency](Glossary-Standard-Terms#task_support_and_efficiency)
-3. ::[Safety](Glossary-Standard-Terms#safety)
-4. ::[Consistency and familiarity](Glossary-Standard-Terms#consistency_and_familiarity)
+1. ::[Understandability and learnability](./Glossary-Standard-Terms#understandability_and_learnability.md)
+2. ::[Task support and efficiency](./Glossary-Standard-Terms#task_support_and_efficiency.md)
+3. ::[Safety](./Glossary-Standard-Terms#safety.md)
+4. ::[Consistency and familiarity](./Glossary-Standard-Terms#consistency_and_familiarity.md)
 
 ### Metaphors, Exemplars, and Standards
 
@@ -41,28 +41,28 @@ text as needed._
 
 #### What existing systems have user interfaces similar to the UI you want to build? What specific aspects are similar?
 
-- ::[amazon.com](http://www.amazon.com): Our e-commerce site will
+- ::[amazon.com](./http://www.amazon.com.md): Our e-commerce site will
   have stores and departments, and search like this site.
-- ::[Microsoft Office](http://www.microsoft.com/office/using/default.asp): We
+- ::[Microsoft Office](./http://www.microsoft.com/office/using/default.asp.md): We
   will use configurable toolbars the same way Office 2000 does.
-- ::[EXISTING-UI](LINK-TO-SYSTEM): DESCRIPTION
+- ::[EXISTING-UI](./LINK-TO-SYSTEM.md): DESCRIPTION
 
 #### What UI design standards, guidelines, and styles are you following?
 
-- ::[Microsoft UI guidelines](http://msdn.microsoft.com/library/default.asp?url=/library/en-us/dnwue/html/welcome.asp)
-- ::[Java UI guidelines](http://java.sun.com/products/jlf/ed1/guidelines.html)
-- ::[Mac UI guidelines](http://developer.apple.com/techpubs/macosx/Essentials/AquaHIGuidelines/AHIGHIGs/index.html)
-- ::[W3C Accessibility guidelines](http://www.w3.org/TR/WCAG10/)
+- ::[Microsoft UI guidelines](./http://msdn.microsoft.com/library/default.asp?url=/library/en-us/dnwue/html/welcome.asp.md)
+- ::[Java UI guidelines](./http://java.sun.com/products/jlf/ed1/guidelines.html.md)
+- ::[Mac UI guidelines](./http://developer.apple.com/techpubs/macosx/Essentials/AquaHIGuidelines/AHIGHIGs/index.html.md)
+- ::[W3C Accessibility guidelines](./http://www.w3.org/TR/WCAG10/.md)
 
 ### Task Models
 
 #### What types of users will use this system?
 
-::See the [user needs document](User-Needs).
+::See the [user needs document](./User-Needs.md).
 
 #### What types of tasks will those users perform?
 
-::See the [use case suite](Use-Case-Suite).
+::See the [use case suite](./Use-Case-Suite.md).
 
 ### Content Model / Interaction Contexts
 
@@ -84,7 +84,7 @@ that context. Each component is a piece of information, or a user
 interface affordance. In a GUI, each abstract component will eventually
 become a widget, but the choice of specific widgets happens later.
 Choice of abstract components corresponds to step 2 in the
-[HTML prototyping example](http://www.ics.uci.edu/~jrobbins/htmlproto/index.html)
+[HTML prototyping example](./http://www.ics.uci.edu/~jrobbins/htmlproto/index.html.md)
 demonstrated in class._
 
 _TIP: Most high frequency use cases should be carried out in only one
@@ -94,29 +94,29 @@ many components can also be hard to use._
 
 | Interaction Context --Abstract UI Components | Purpose                                                                                                          | Contents / Constraints / Behavior                                                                                                                                                                                                            |
 | -------------------------------------------- | ---------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| ::[Login dialog](LINK-TO-MOCKUP)             | ::Verify that the current user is actually the person that they claim to be.                                     |                                                                                                                                                                                                                                              |
+| ::[Login dialog](./LINK-TO-MOCKUP.md)             | ::Verify that the current user is actually the person that they claim to be.                                     |                                                                                                                                                                                                                                              |
 | ::--Prompt                                   | ::Tell the user that this dialog is to log in.                                                                   | ::"Please log in".                                                                                                                                                                                                                           |
 | ::--Message area                             | ::Give the user some feedback about the login process.                                                           | ::Initially blank. Changes to "Checking username and password" when the user presses "Login". Changes to "Invalid username or password, please try again", if login fails.                                                                   |
 | ::--Username                                 | ::Identify the user account that the current user is trying to access.                                           | ::The name of the user account. Regex: [-_a-z0-9]{1-16}. The application should not do anything that would help users guess usernames. E.g., this should not be a combo-box with recent users listed, and it should not offer auto-complete. |
 | ::--Password                                 | ::Verify that the current user knows a secret password that only the true user of that user account should know. | ::The password of 4-16 characters. Do not display the password on the screen. The application should not do anything that would help users guess passwords.                                                                                  |
 | ::--Login                                    | ::Allow the user to indicate that they have completed entry of their username and password.                      | ::"Login" Only enabled when Username != "". If the username or password is incorrect, delay a few seconds, and then clear all fields.                                                                                                        |
 | ::--Lost Password                            | ::Allow the current user to start a process of generating a new password for a given username.                   | ::"Forgot your password? Click here." Only enabled when Username != "".                                                                                                                                                                      |
-| ::[PAGE-NAME](LINK-TO-MOCKUP)                | ::PURPOSE                                                                                                        |                                                                                                                                                                                                                                              |
+| ::[PAGE-NAME](./LINK-TO-MOCKUP.md)                | ::PURPOSE                                                                                                        |                                                                                                                                                                                                                                              |
 | ::--ABSTRACT-COMPONENT-NAME                  | ::PURPOSE                                                                                                        | ::CONTENTS                                                                                                                                                                                                                                   |
 | ::--ABSTRACT-COMPONENT-NAME                  | ::PURPOSE                                                                                                        | ::CONTENTS                                                                                                                                                                                                                                   |
-| ::[PAGE-NAME](LINK-TO-MOCKUP)                | ::PURPOSE                                                                                                        |                                                                                                                                                                                                                                              |
+| ::[PAGE-NAME](./LINK-TO-MOCKUP.md)                | ::PURPOSE                                                                                                        |                                                                                                                                                                                                                                              |
 | ::--ABSTRACT-COMPONENT-NAME                  | ::PURPOSE                                                                                                        | ::CONTENTS                                                                                                                                                                                                                                   |
 | ::--ABSTRACT-COMPONENT-NAME                  | ::PURPOSE                                                                                                        | ::CONTENTS                                                                                                                                                                                                                                   |
-| ::[MAIN-WINDOW-NAME](LINK-TO-MOCKUP)         | ::PURPOSE                                                                                                        |                                                                                                                                                                                                                                              |
-| ::--ABSTRACT-COMPONENT-NAME                  | ::PURPOSE                                                                                                        | ::CONTENTS                                                                                                                                                                                                                                   |
-| ::--ABSTRACT-COMPONENT-NAME                  | ::PURPOSE                                                                                                        | ::CONTENTS                                                                                                                                                                                                                                   |
-| ::--ABSTRACT-COMPONENT-NAME                  | ::PURPOSE                                                                                                        | ::CONTENTS                                                                                                                                                                                                                                   |
-| ::--ABSTRACT-COMPONENT-NAME                  | ::PURPOSE                                                                                                        | ::CONTENTS                                                                                                                                                                                                                                   |
-| ::[DIALOG-NAME](LINK-TO-MOCKUP)              | ::PURPOSE                                                                                                        |                                                                                                                                                                                                                                              |
+| ::[MAIN-WINDOW-NAME](./LINK-TO-MOCKUP.md)         | ::PURPOSE                                                                                                        |                                                                                                                                                                                                                                              |
 | ::--ABSTRACT-COMPONENT-NAME                  | ::PURPOSE                                                                                                        | ::CONTENTS                                                                                                                                                                                                                                   |
 | ::--ABSTRACT-COMPONENT-NAME                  | ::PURPOSE                                                                                                        | ::CONTENTS                                                                                                                                                                                                                                   |
 | ::--ABSTRACT-COMPONENT-NAME                  | ::PURPOSE                                                                                                        | ::CONTENTS                                                                                                                                                                                                                                   |
-| ::[DIALOG-NAME](LINK-TO-MOCKUP)              | ::PURPOSE                                                                                                        |                                                                                                                                                                                                                                              |
+| ::--ABSTRACT-COMPONENT-NAME                  | ::PURPOSE                                                                                                        | ::CONTENTS                                                                                                                                                                                                                                   |
+| ::[DIALOG-NAME](./LINK-TO-MOCKUP.md)              | ::PURPOSE                                                                                                        |                                                                                                                                                                                                                                              |
+| ::--ABSTRACT-COMPONENT-NAME                  | ::PURPOSE                                                                                                        | ::CONTENTS                                                                                                                                                                                                                                   |
+| ::--ABSTRACT-COMPONENT-NAME                  | ::PURPOSE                                                                                                        | ::CONTENTS                                                                                                                                                                                                                                   |
+| ::--ABSTRACT-COMPONENT-NAME                  | ::PURPOSE                                                                                                        | ::CONTENTS                                                                                                                                                                                                                                   |
+| ::[DIALOG-NAME](./LINK-TO-MOCKUP.md)              | ::PURPOSE                                                                                                        |                                                                                                                                                                                                                                              |
 | ::--ABSTRACT-COMPONENT-NAME                  | ::PURPOSE                                                                                                        | ::CONTENTS                                                                                                                                                                                                                                   |
 | ::--ABSTRACT-COMPONENT-NAME                  | ::PURPOSE                                                                                                        | ::CONTENTS                                                                                                                                                                                                                                   |
 | ::--ABSTRACT-COMPONENT-NAME                  | ::PURPOSE                                                                                                        | ::CONTENTS                                                                                                                                                                                                                                   |
@@ -126,7 +126,7 @@ many components can also be hard to use._
 #### What are your assumptions about the output devices?
 
 ::We assume that the user has a 17-inch or larger screen with 1024x768
-pixels that can display thousands of colors (16 bit or more). We
+pixels that can display thousands of colors (./16 bit or more.md). We
 assume basic audio that can play simple sound files.
 
 ::We make very few assumptions about the user's screen or web browser,

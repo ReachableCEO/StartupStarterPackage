@@ -1,7 +1,7 @@
 <!-- markdownlint-disable-next-line first-line-h1 -->
 ##### Project
 
-::[PROJECT-NAME](Home)
+::[PROJECT-NAME](./Home.md)
 
 ##### Internal Release Number
 
@@ -9,8 +9,8 @@
 
 ##### Related Documents
 
-[QA Plan](QA-Plan) > [Test Suite](Test-Suite) > Test Cases
-[System test case format](Test-Case-Format)
+[QA Plan](./QA-Plan.md) > [Test Suite](./Test-Suite.md) > Test Cases
+[System test case format](./Test-Case-Format.md)
 ::LINKS TO RELEVANT STANDARDS
 ::LINKS TO OTHER DOCUMENTS
 

@@ -2,24 +2,24 @@
 
 ##### Project
 
-::[PROJECT-NAME](Home)
+::[PROJECT-NAME](./Home.md)
 
 ##### Attached worksheets
 
-- User needs > [Interview notes](interview-notes.html)
+- User needs > [Interview notes](./interview-notes.html.md)
 
 ##### Related Documents
 
-- [Project proposal](Proposal) > [Target audience and benefits](Target-and-Benefits)
-- [Software requirements specification](SRS)
-- [Glossary](Glossary)
+- [Project proposal](./Proposal.md) > [Target audience and benefits](./Target-and-Benefits.md)
+- [Software requirements specification](./SRS.md)
+- [Glossary](./Glossary.md)
 
 ---
 
 **Process impact:** The statement of user needs documents and explains
 the actual desires of stakeholders in roughly their own words. What they
 _desire_ is never exactly what the product _provides_. Documenting user
-needs here, independently from the [SRS](SRS), helps to keep the
+needs here, independently from the [SRS](./SRS.md), helps to keep the
 SRS precise and makes the tasks of verification and validation more
 effective. This document is _not_ an informal draft of the SRS, it is
 different document with a complementary purpose.
@@ -33,13 +33,13 @@ project goals into a brief statement and try to get the stakeholders to
 agree to it. The text below gives three alternative examples, select
 one, or write your own._
 
-::We were given an [initial project description](LINK) that is agreed to
+::We were given an [initial project description](./LINK.md) that is agreed to
 by all stakeholders.
 
 ::After several interviews and brainstorming sessions, we have [revised
-project description](LINK) that has been agreed to by all stakeholders.
+project description](./LINK.md) that has been agreed to by all stakeholders.
 
-::There are still a few different (but overlapping) visions of what this
+::There are still a few different (./but overlapping.md) visions of what this
 project needs to achieve. When a single joint vision is agreed to, it
 will be hyper-linked from here.
 
@@ -76,7 +76,7 @@ while the user is walking from one section of the warehouse
 to another. Lighting is good in that environment, but there are many
 noises and distractions.
 
-#### What is the system's technology environment (hardware and software)?
+#### What is the system's technology environment (./hardware and software.md)?
 
 :: 60% of game players have machines with P-II or equivalent
 processors, while 30% have P-I machines, and 10% have less
@@ -162,30 +162,30 @@ it here._
 
 #### ::DATE, INTERVIEWEE
 
-::[interview with INTERVIEWEE](interview-notes.html)
+::[interview with INTERVIEWEE](./interview-notes.html.md)
 
 #### ::DATE-1, INTERVIEWEE
 
-::NOTES FROM INTERVIEW...(pasted here)
+::NOTES FROM INTERVIEW...(./pasted here.md)
 
 #### ::DATE-2, INTERVIEWEE
 
-::NOTES FROM INTERVIEW...(pasted here)
+::NOTES FROM INTERVIEW...(./pasted here.md)
 
 #### ::DATE-3, PARTICIPANTS
 
-::NOTES FROM BRAINSTORMING SESSION...(pasted here)
+::NOTES FROM BRAINSTORMING SESSION...(./pasted here.md)
 
 #### ::DATE-4, PARTICIPANTS
 
-::[email from INTERVIEWEE](LINK-TO-ARCHIVE)
+::[email from INTERVIEWEE](./LINK-TO-ARCHIVE.md)
 
 ### User Stories
 
 _TODO: Write brief user stories to explain how various actors would
-interact with the system (directly and indirectly) to accomplish a
+interact with the system (./directly and indirectly.md) to accomplish a
 real-world goal. User stories are \*not\* use cases: user stories are
-brief (3-5 sentences) paragraphs that describe one specific scenario in
+brief (./3-5 sentences.md) paragraphs that describe one specific scenario in
 concrete terms. In this description of user needs, do not make
 assumptions about details of the system, instead focus on the users.
 Note the source of each user story._
@@ -197,14 +197,14 @@ servers about 8 hours a week for the last 3 weeks. John has chatted
 with Bob about strategies and they have enjoyed some duels. Bob is a
 member of the RedDawn clan. That clan plays a tournament on a
 private server Friday nights. Bob invites John to visit the RedDawn
-website and join. (Source: [INTERVIEWEE](interview-notes.html))
+website and join. (./Source: [INTERVIEWEE](interview-notes.html.md))
 
 #### finding-the-tournament
 
 :: Bob is visiting his friend. He tries to use his friend's computer to
 log onto the RedDawn SuperShooter tournament. But, he does not
 remember the exact name of the server. So, he visits the RedDawn
-clan website to find that information. (Source: PERSON-NAME)
+clan website to find that information. (./Source: PERSON-NAME.md)
 
 #### STORY-NAME-1
 
@@ -231,7 +231,7 @@ following system capacity:
   50-500 new registrations each day)
 - ::1000 users browsing the web site any given time
 - ::1000 gaming clans
-- ::1000 members of a single clan (average: 8)
-- ::4 MB max disk space for each clan (average: 0.5 MB)
+- ::1000 members of a single clan (./average: 8.md)
+- ::4 MB max disk space for each clan (./average: 0.5 MB.md)
 - ::100 game vendors posting advertisements on the site
 - ::1000 actual advertisements in the database

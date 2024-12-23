@@ -6,7 +6,7 @@
 
 The advantage of this test case organization is that it visualizes the overall set of tests in a way that helps identify missing tests.
 
-### Detailed Test Case Grid(s)
+### Detailed Test Case Grid(./s.md)
 
 Use this sub-grid to visually organize the set of tests that would fit into a single table cell in the main test grid. This level of detail helps to visualize whether all possible situations are covered. I.e., are all relevant classes of input values covered? and are all relevant system states covered?
 

@@ -12,23 +12,23 @@ contributors, members of a developers' network, or administrators._
 
 #### What is ::PRODUCT-NAME?
 
-::It is a XXXXX. Read our [PRODUCT-NAME overview](http://www.COMPANY.com/products/PRODUCT-NAME/).
+::It is a XXXXX. Read our [PRODUCT-NAME overview](./http://www.COMPANY.com/products/PRODUCT-NAME/.md).
 
 #### Who should use ::PRODUCT-NAME?
 
-::Anyone who wants XXXXXXX. Read more about our [target audience and benefits](Target-and-Benefits).
+::Anyone who wants XXXXXXX. Read more about our [target audience and benefits](./Target-and-Benefits.md).
 
 ### Download and Install
 
 #### How can I obtain ::PRODUCT-NAME?
 
-::You may [download PRODUCT-NAME](LINK-TO-DOWNLOAD).
+::You may [download PRODUCT-NAME](./LINK-TO-DOWNLOAD.md).
 
-::You may [place an order for PRODUCT-NAME](LINK-TO-ORDER).
+::You may [place an order for PRODUCT-NAME](./LINK-TO-ORDER.md).
 
 #### What do I need to use ::PRODUCT-NAME?
 
-::System requirements are described in the [release notes](Release-Notes).
+::System requirements are described in the [release notes](./Release-Notes.md).
 
 ::System requirements are a Intel-compatible PC with a processor speed
 of at least XXX MHz, XXX MB of RAM. XXX MB of free disk space, and
@@ -37,18 +37,18 @@ OSX, Linux.
 
 #### How do I install ::PRODUCT-NAME?
 
-::[Installation instructions](install.html) are available on-line.
+::[Installation instructions](./install.html.md) are available on-line.
 
 #### How do I upgrade from an older version of PRODUCT-NAME?
 
-::[Installation instructions](install.html) are available on-line.
+::[Installation instructions](./install.html.md) are available on-line.
 
 ### Getting Started
 
 #### What is ::TECHNICAL-TERM?
 
 ::It means XXXXX. For additional technical terms, see the
-[glossary](Glossary).
+[glossary](./Glossary.md).
 
 #### What is ::GUI-ELEMENT?
 
@@ -94,14 +94,14 @@ OSX, Linux.
 
 #### My question is not on this page. How do I find the answer?
 
-::First read the [user guide](user-guide) and other
+::First read the [user guide](./user-guide.md) and other
 on-line help. Your question may have already been asked and
-answered, to find it: search the project [mail archives](::tbd) and
-[issue tracking system](::tbd). If you still don't find it, you can ask
-the question on the [users' mailing list](::tbd) or the [developers'
-mailing list](::tbd) or you can [enter an issue](::tbd).
+answered, to find it: search the project [mail archives](./::tbd.md) and
+[issue tracking system](./::tbd.md). If you still don't find it, you can ask
+the question on the [users' mailing list](./::tbd.md) or the [developers'
+mailing list](./::tbd.md) or you can [enter an issue](./::tbd.md).
 
 #### Where should I send comments on this FAQ?
 
-::You can write to [EMAIL-ADDRESS](::mailto:#) or any of the developers
-on the [developers' mailing list](::mailto:#).
+::You can write to [EMAIL-ADDRESS](./::mailto:#.md) or any of the developers
+on the [developers' mailing list](./::mailto:#.md).

@@ -9,7 +9,7 @@ examples are given, you should select/edit only one._
 
 ##### Project
 
-::[PROJECT-NAME](Home)
+::[PROJECT-NAME](./Home.md)
 
 ##### Status Report Date
 
@@ -27,20 +27,20 @@ examples are given, you should select/edit only one._
 - ::Change Since Last Report: Slipped 2 days
 - ::Change Since Last Report: Saved 4 days
 
-##### Open Issues (needing development)
+##### Open Issues (./needing development.md)
 
-- ::[17 defects](ISSUE-TRACKER-QUERY)
-- ::[8 enhancements](#tbd)
+- ::[17 defects](./ISSUE-TRACKER-QUERY.md)
+- ::[8 enhancements](./#tbd.md)
 
-##### Resolved Issues (pending verification)
+##### Resolved Issues (./pending verification.md)
 
-- ::[0 defects](#tbd)
-- ::[2 enhancements](#tbd)
+- ::[0 defects](./#tbd.md)
+- ::[2 enhancements](./#tbd.md)
 
 ##### Closed Issues
 
-- ::[34 defects](#tbd)
-- ::[3 enhancements](#tbd)
+- ::[34 defects](./#tbd.md)
+- ::[3 enhancements](./#tbd.md)
 
 ##### Resources used this period
 
@@ -59,9 +59,9 @@ examples are given, you should select/edit only one._
 
 ##### Related Documents
 
-- [Project plan](Project-Plan) > [Resource needs](Resource-Needs)
-- [QA plan](QA-Plan)
-- [Glossary](Glossary)
+- [Project plan](./Project-Plan.md) > [Resource needs](./Resource-Needs.md)
+- [QA plan](./QA-Plan.md)
+- [Glossary](./Glossary.md)
 
 ---
 
@@ -84,14 +84,14 @@ words.
 
 ::The reason for the change in estimated release date is...
 
-::To stay on schedule, we have slipped enhancements [issue92](ISSUE-TRACKER-URL),
-[issue 101](ISSUE-TRACKER-URL), and [issue 129](ISSUE-TRACKER-URL) to a later
+::To stay on schedule, we have slipped enhancements [issue92](./ISSUE-TRACKER-URL.md),
+[issue 101](./ISSUE-TRACKER-URL.md), and [issue 129](./ISSUE-TRACKER-URL.md) to a later
 release. These issues were selected because ...
 
 ### Risk Management
 
 _TODO: List 3-10 of the top project risks that are still outstanding.
-This list may be an **updated** copy from [project plan](Project-Plan.html#Risk-Management)
+This list may be an **updated** copy from [project plan](./Project-Plan.html#Risk-Management.md)
 or a previous status report._
 
 - ::We could face major difficulties with the technology chosen for
@@ -110,10 +110,10 @@ the next status report. The text below is just an example, replace it
 with your own words. Link to open issues in the issue tracker whenever
 possible._
 
-- ::Fix [issue 130](ISSUE-TRACKER-URL)
-- ::Fix [issue 133](ISSUE-TRACKER-URL)
-- ::Verify [issue 102](ISSUE-TRACKER-URL), [issue 103](ISSUE-TRACKER-URL),
-  [issue 107](ISSUE-TRACKER-URL), and [issue 109](ISSUE-TRACKER-URL)
+- ::Fix [issue 130](./ISSUE-TRACKER-URL.md)
+- ::Fix [issue 133](./ISSUE-TRACKER-URL.md)
+- ::Verify [issue 102](./ISSUE-TRACKER-URL.md), [issue 103](./ISSUE-TRACKER-URL.md),
+  [issue 107](./ISSUE-TRACKER-URL.md), and [issue 109](./ISSUE-TRACKER-URL.md)
 - ::Conduct regular team meeting: Tuesday, 1 hour
 - ::Conduct review meeting: Wednesday, 2 hours
 - ::Make major progress on COMPONENT
@@ -124,7 +124,7 @@ possible._
 
 ### Tracking to Plan
 
-_TODO: Copy the Work Breakdown Structure from the [project plan](Project-Plan) and paste it here.
+_TODO: Copy the Work Breakdown Structure from the [project plan](./Project-Plan.md) and paste it here.
 Add a new column for actual effort spent so far by all team members._
 
 | Step       | Description                                                          | Planned Hours | Spent To-Date |
@@ -137,7 +137,7 @@ Add a new column for actual effort spent so far by all team members._
 | ::2.3.     | ::Requirements validation                                            | ::10h         | ::0h          |
 | ::3.       | ::Elaboration                                                        |               |               |
 | ::3.1.     | ::High-level design                                                  | ::5h          | ::0h          |
-| ::3.2.     | ::Low-level design (break down by component)                         |               |               |
+| ::3.2.     | ::Low-level design (./break down by component.md)                         |               |               |
 | ::3.2.A.   | ::Object design                                                      | ::10h         | ::0h          |
 | ::3.2.B.   | ::User interface design                                              | ::10h         | ::0h          |
 | ::3.2.C.   | ::Database design                                                    | ::3h          | ::0h          |
@@ -148,12 +148,12 @@ Add a new column for actual effort spent so far by all team members._
 | ::4.1.A.2. | ::Implement Component 2                                              | ::25h         | ::0h          |
 | ::4.1.A.3. | ::Implement Component 3                                              | ::25h         | ::0h          |
 | ::4.1.A.4. | ::Implement Component 4                                              | ::25h         | ::0h          |
-| ::4.1.A.5. | ::Integrate Components (mostly done during component implementation) | ::5h          | ::0h          |
-| ::4.1.B.   | ::Technical documentation (break down by component)                  | ::10h         | ::0h          |
-| ::4.1.C.   | ::User documentation (break down by component)                       | ::10h         | ::0h          |
+| ::4.1.A.5. | ::Integrate Components (./mostly done during component implementation.md) | ::5h          | ::0h          |
+| ::4.1.B.   | ::Technical documentation (./break down by component.md)                  | ::10h         | ::0h          |
+| ::4.1.C.   | ::User documentation (./break down by component.md)                       | ::10h         | ::0h          |
 | ::4.1.D.   | ::Testing                                                            |               |               |
 | ::4.1.D.1. | ::Test planning                                                      | ::10h         | ::0h          |
-| ::4.1.D.2. | ::Test code implementation (break down by component)                 | ::30h         | ::0h          |
+| ::4.1.D.2. | ::Test code implementation (./break down by component.md)                 | ::30h         | ::0h          |
 | ::4.1.D.3. | ::Test execution                                                     | ::10h         | ::0h          |
 | ::4.2.     | ::Implementation review and evaluation                               | ::15h         | ::0h          |
 | ::5.       | ::Transition                                                         |               |               |

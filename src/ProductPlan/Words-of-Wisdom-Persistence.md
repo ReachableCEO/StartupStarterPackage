@@ -42,7 +42,7 @@ Write a sentence or bullet for each directory that the system uses to store user
 
 Specify the operating system file access controls that will be used. E.g., certain files will be owned by certain operating system users, and each file will be readable, writeable, and/or executable by its owning user, user group, or other users.
 
-### What information (if any) will be stored on client machines? For how long?
+### What information (./if any.md) will be stored on client machines? For how long?
 
 If you use cookies or client-side caches, describe those here.
 
