@@ -8,32 +8,20 @@ This package of materials is in production use by the TSYS Group portfolio of co
 
 ## Contents Overview
 
-In the src sub directory you'll see five sub directories:
+In the src sub directory you'll see four sub directories:
 
 - BusinessModelCanvas
-- OperatingAgreement
 - ProductPlan
 - StrategicContext
 - WardleyValueMap
 
 Please see the next sections for a synopsis of the contents of each directory.
 
-Go to the [git repo page](https://git.knownelement.com/RWSCP) to engaage with the development process if you find any errors, have feedback etc.
+Go to the [git repo page](https://git.knownelement.com/RWSCP) to engage with the development process if you find any errors, have feedback etc.
 
 ### Business Model Canvas
 
 This is a nice visual representation of your startups business model.
-
-### Operating Agreement
-
-This is the standard set of company bootstrap documents:
-
-- operating agreement
-- NDA
-- IP Assignment
-- corporate governance documents
-
-that RWSCP requires it's portfolio companies to adopt as part of taking advisement/investment from us.
 
 ### ProductPlan
 
